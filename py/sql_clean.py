@@ -1,6 +1,6 @@
-# -------------------------------------
-# --- BLOC 1 - Imports et connexion ---
-# -------------------------------------
+# -------------------------
+# --- IMPORTS/CONNEXION ---
+# -------------------------
 import duckdb                   # moteur SQL embarqué
 import pandas as pd              # lecture des xlsx
 import os
@@ -8,7 +8,7 @@ import os
 con = duckdb.connect()            # connexion en mémoire (pas de fichier, pas de serveur)
 
 # ------------------------------------------------
-# --- BLOC 2 - Chargement des fichiers sources ---
+# --- BLOC 1 - Chargement des fichiers sources ---
 # ------------------------------------------------
 # On lit les xlsx avec pandas (plus fiable que DuckDB pour l'xlsx)
 # puis on les enregistre comme tables DuckDB en mémoire
@@ -24,7 +24,7 @@ con.register("web_raw", web_raw)
 con.register("liaison_raw", liaison_raw)
 
 # ---------------------------------------------------------------
-# --- BLOC 3 — Nettoyage : suppression des valeurs manquantes ---
+# --- BLOC 2 — Nettoyage : suppression des valeurs manquantes ---
 # ---------------------------------------------------------------
 # Pour chaque table, on supprime les lignes qui ont des nulls
 # sur la colonne clé (celle qu'on utilisera pour joindre)
@@ -55,7 +55,7 @@ erp_cla = con.execute("""
     WHERE product_id IS NOT NULL""").df()
 
 # ----------------------------------------
-# --- BLOC 4 — Dédoublonnage - Unicité ---
+# --- BLOC 3 — Dédoublonnage - Unicité ---
 # ----------------------------------------
 # On ne garde qu'une seule ligne par clé unique
 
@@ -75,16 +75,6 @@ liaison_uni = con.execute("""
 """).df()
 # On garde les null pour garder la logique metier car 11% de NAN, sinon on perd les 825
 
-# ------------------------------------------------
-# --- EXPORT - Sauvegarde des tables nettoyées ---
-# ------------------------------------------------
-
-os.makedirs("./data/csv", exist_ok=True) 
-
-erp_uni.to_csv("./data/csv/erp_s1", index=False)
-web_uni.to_csv("./data/csv/web_s1", index=False)
-liaison_uni.to_csv("./data/csv/liaison_s1", index=False)
-
 # -----------------------------------------------------------------------
 # --- VERIFICATION - Comparaison avec les chiffres attendus du métier ---
 # -----------------------------------------------------------------------
@@ -92,3 +82,14 @@ liaison_uni.to_csv("./data/csv/liaison_s1", index=False)
 print(f"ERP nettoyé   : {len(erp_uni)} lignes  (attendu: 825)")
 print(f"Liaison nettoyée : {len(liaison_uni)} lignes  (attendu: 825)")
 print(f"Web nettoyé   : {len(web_uni)} lignes  (attendu: 714)")
+
+# ------------------------------------------------
+# --- EXPORT - Sauvegarde des tables nettoyées ---
+# ------------------------------------------------
+
+os.makedirs("./data/csv", exist_ok=True) 
+
+erp_uni.to_csv("./data/csv/erp_s1.csv", index=False)
+web_uni.to_csv("./data/csv/web_s1.csv", index=False)
+liaison_uni.to_csv("./data/csv/liaison_s1.csv", index=False)
+
