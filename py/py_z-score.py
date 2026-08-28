@@ -28,9 +28,9 @@ fusion["z_score"] = (fusion["price"] - prix_moyen) / prix_ecart_type
 vins_premium = fusion[fusion["z_score"] > 2]
 vins_ordinaires = fusion[fusion["z_score"] < 2]
 
-# ----------------------------------------------------------
-# --- VERIFICATION - Comparaison avec attendus du service --
-# ----------------------------------------------------------
+# -----------------------------------------------------------
+# --- VERIFICATION - Comparaison avec attendus du service ---
+# -----------------------------------------------------------
 print(f"Vins premium détectés : {len(vins_premium)}  (attendu: 30)")
 
 # --------------

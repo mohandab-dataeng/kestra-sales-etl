@@ -1,11 +1,12 @@
 # -------------------------
 # --- IMPORTS/CONNEXION ---
 # -------------------------
-import duckdb                   # moteur SQL embarqué
-import pandas as pd              # lecture des xlsx
+
+import pandas as pd 
+import duckdb
 import os
 
-con = duckdb.connect()            # connexion en mémoire (pas de fichier, pas de serveur)
+con = duckdb.connect()  # connexion en mémoire (pas de fichier, pas de serveur)
 
 # ------------------------------------------------
 # --- BLOC 1 - Chargement des fichiers sources ---
@@ -13,7 +14,7 @@ con = duckdb.connect()            # connexion en mémoire (pas de fichier, pas d
 # On lit les xlsx avec pandas (plus fiable que DuckDB pour l'xlsx)
 # puis on les enregistre comme tables DuckDB en mémoire
 
-# charge les excel en dataframe pandas
+# Charge les excel en dataframe pandas
 erp_raw = pd.read_excel("./data/Fichier_erp.xlsx")         
 web_raw = pd.read_excel("./data/Fichier_web.xlsx")
 liaison_raw = pd.read_excel("./data/fichier_liaison.xlsx")
