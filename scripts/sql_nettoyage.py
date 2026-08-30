@@ -84,13 +84,31 @@ print(f"ERP nettoyé   : {len(erp_uni)} lignes  (attendu: 825)")
 print(f"Liaison nettoyée : {len(liaison_uni)} lignes  (attendu: 825)")
 print(f"Web nettoyé   : {len(web_uni)} lignes  (attendu: 714)")
 
+# --------------------------------------
+# --- TESTS - Doublons/nulls/Unicité ---
+# --------------------------------------
+
+assert erp_uni.duplicated().sum() == 0, "❌ Doublons détectés dans ERP"
+assert web_uni.duplicated().sum() == 0, "❌ Doublons détectés dans WEB"
+assert liaison_uni.duplicated().sum() == 0, "❌ Doublons détectés dans LIAISON"
+print("✅ Absence de doublons vérifiée")
+
+assert erp_uni["product_id"].isna().sum() == 0, "❌ Nulls dans ERP product_id"
+assert web_uni["sku"].isna().sum() == 0, "❌ Nulls dans WEB sku"
+assert liaison_uni["product_id"].isna().sum() == 0, "❌ Nulls dans LIAISON product_id"
+print("✅ Absence de valeurs manquantes vérifiée")
+
+assert erp_uni["product_id"].duplicated().sum() == 0, "❌ Clé primaire product_id non unique dans ERP"
+assert web_uni["sku"].duplicated().sum() == 0, "❌ Clé primaire sku non unique dans WEB"
+assert liaison_uni["product_id"].duplicated().sum() == 0, "❌ Clé primaire product_id non unique dans LIAISON"
+print("✅ Unicité des clés primaires vérifiée")
+
 # ------------------------------------------------
 # --- EXPORT - Sauvegarde des tables nettoyées ---
 # ------------------------------------------------
 
-os.makedirs("./data/csv", exist_ok=True) 
+os.makedirs("./export", exist_ok=True) 
 
-erp_uni.to_csv("./data/csv/erp_s1.csv", index=False)
-web_uni.to_csv("./data/csv/web_s1.csv", index=False)
-liaison_uni.to_csv("./data/csv/liaison_s1.csv", index=False)
-
+erp_uni.to_csv("./export/erp_s1.csv", index=False)
+web_uni.to_csv("./export/web_s1.csv", index=False)
+liaison_uni.to_csv("./export/liaison_s1.csv", index=False)

@@ -1,6 +1,7 @@
 # -------------------------
 # --- IMPORTS/CONNEXION ---
 # -------------------------
+
 import duckdb
 import pandas as pd
 
@@ -12,9 +13,9 @@ con = duckdb.connect()
 # On repart des fichiers nettoyés produits par le script précédent
 # (pas des fichiers _raw mais les export csv)
 
-erp_uni = pd.read_csv("./data/csv/erp_s1.csv")
-web_uni = pd.read_csv("./data/csv/web_s1.csv")
-liaison_uni = pd.read_csv("./data/csv/liaison_s1.csv")
+erp_uni = pd.read_csv("./export/erp_s1.csv")
+web_uni = pd.read_csv("./export/web_s1.csv")
+liaison_uni = pd.read_csv("./export/liaison_s1.csv")
 
 con.register("erp_uni", erp_uni)
 con.register("web_uni", web_uni)
@@ -54,10 +55,20 @@ fusion = con.execute("""
 # -------------------------------------------
 # --- BLOC 4 - Vérification  nb de lignes ---
 # -------------------------------------------
+
 print(f"Table fusionnée : {len(fusion)} lignes  (attendu: 714)")
+
+# ------------------------------------------
+# --- TEST - Correspondance volumetrique ---
+# ------------------------------------------
+
+assert len(fusion) == 714, f"❌ Jointure incohérente : {len(fusion)} lignes obtenues"
+print(f"✅ Cohérence jointure vérifiée : {len(fusion)} lignes")
+
 
 # --------------
 # --- EXPORT ---
 # --------------
-fusion.to_csv("./data/csv/fusion_s2.csv", index=False)
+
+fusion.to_csv("./export/fusion_s2.csv", index=False)
 print(fusion.columns.tolist())

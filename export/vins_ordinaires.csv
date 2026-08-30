@@ -3,7 +3,7 @@ product_id,sku,post_title,total_sales,price,z_score
 4727,16540,Paul Ginglinger Riesling Grand Cru Pfersigberg 2018,2.0,26.0,-0.2334776949747494
 4058,16318,Mourgues du Grès Costières de Nîmes Galets Rouges 2019,11.0,8.7,-0.8555443423436802
 5695,16304,Philippe Nusswitz IGP Cévènnes Rosé O Pale 2019,14.0,6.5,-0.9346510836275904
-4925,16277,Cave de Castelmaure Corbières Rouge N°3 2017,12.0,23.2,-0.3341590020633624
+4925,16277,Cave de Castelmaure Corbières Rouge N°3 2017,12.0,23.2,-0.33415900206336246
 4863,16255,Château Ollieux Romanis Corbières Rosé Classique 2019,4.0,8.2,-0.8735231471809325
 6930,16135,Mouthes Le Bihan Côtes de Duras L'Aimé Chai 2015,5.0,8.4,-0.8663316252460316
 4057,16039,Mourgues du Grès Costières de Nîmes Galets Dorés 2019,18.0,8.7,-0.8555443423436802
@@ -14,38 +14,38 @@ product_id,sku,post_title,total_sales,price,z_score
 6616,15781,Clos du Mont-Olivet Lirac Rouge 2017,1.0,15.4,-0.614628357524499
 5797,15688,Château Saransot-Dupré Listrac-Médoc 2016,0.0,17.2,-0.5499046601103905
 4097,15675,Paul Ginglinger Pinot Gris Les Prelats 2018,1.0,12.8,-0.7081181426782109
-4147,15648,Champagne Mailly Grand Cru Extra Brut Millésimé 2012,3.0,33.0,0.0182255727467832
-5778,15561,Maurel Pays d'Oc Merlot 2018,24.0,5.8,-0.9598214103997436
-4671,15527,Domaine Pellé Menetou Salon Rouge Les Cris 2015,0.0,21.9,-0.3809038946402185
-5491,15481,Marc Colin Et Fils Santenay Rouge 2017,0.0,26.5,-0.215498890137497
+4147,15648,Champagne Mailly Grand Cru Extra Brut Millésimé 2012,3.0,33.0,0.01822557274678328
+5778,15561,Maurel Pays d'Oc Merlot 2018,24.0,5.8,-0.9598214103997437
+4671,15527,Domaine Pellé Menetou Salon Rouge Les Cris 2015,0.0,21.9,-0.38090389464021857
+5491,15481,Marc Colin Et Fils Santenay Rouge 2017,0.0,26.5,-0.21549889013749707
 4596,15476,Marc Colin Et Fils Chassagne-Montrachet Blanc Margot 2017,23.0,43.9,0.4101635181988841
 4160,15373,Planeta Sicilia La Segreta Rosso 2017,7.0,9.3,-0.8339697765389773
-4940,15337,Oratoire Saint Martin Cairanne Blanc Haut-Coustias 2017,2.0,20.5,-0.431244548184525
+4940,15337,Oratoire Saint Martin Cairanne Blanc Haut-Coustias 2017,2.0,20.5,-0.43124454818452507
 4216,15213,Domaine de l'Ecu Muscadet Classic 2018,1.0,13.4,-0.6865435768735082
-5771,15184,Camille Giroud Santenay Rouge 1er Cru Clos Rousseau 2016,0.0,38.4,0.2123966649891084
-5768,15183,Camille Giroud Maranges Rouge 1er Cru Le Croix Moines 2016,1.0,35.6,0.1117153579004954
-4605,15148,Catherine et Claude Maréchal Savigny-Lès-Beaune Rouge 2016,0.0,32.2,-0.0105405149928203
+5771,15184,Camille Giroud Santenay Rouge 1er Cru Clos Rousseau 2016,0.0,38.4,0.21239666498910842
+5768,15183,Camille Giroud Maranges Rouge 1er Cru Le Croix Moines 2016,1.0,35.6,0.11171535790049547
+4605,15148,Catherine et Claude Maréchal Savigny-Lès-Beaune Rouge 2016,0.0,32.2,-0.010540514992820353
 5481,15138,Domaine Bulliat Moulin-à-Vent 2017,0.0,11.5,-0.754863035255067
 5809,15080,Château Tour De Pez Saint-Estèphe Les Hauts de Pez 2016,0.0,17.9,-0.5247343333382373
 5804,14955,Château Le Puy Bordeaux Côtes-de-Francs Emilien 2016,1.0,25.0,-0.2694353046492541
 5610,14912,Domaine Weinbach Pinot Blanc 2017,0.0,18.0,-0.5211385723707868
 4713,14746,Domaine Schoenheitz Gewurztraminer Lisenberg 2015,12.0,18.4,-0.5067555285009849
-5700,14736,"Gilles Robin Crozes-Hermitage Rouge ""1920"" 2016",1.0,44.5,0.4317380840035869
+5700,14736,"Gilles Robin Crozes-Hermitage Rouge ""1920"" 2016",1.0,44.5,0.43173808400358693
 5474,14679,Domaine Saint-Nicolas Fiefs Vendéens Rouge La Grande Pièce 2013,4.0,42.0,0.3418440598173253
-5712,14241,Albert Mann Gewurztraminer Vendanges Tardives Altenbourg 2015,1.0,57.6,0.902782770739598
-5391,14141,Australie Maverick Trial Hill Riesling 2010,1.0,24.2,-0.2982013923888578
+5712,14241,Albert Mann Gewurztraminer Vendanges Tardives Altenbourg 2015,1.0,57.6,0.9027827707395981
+5391,14141,Australie Maverick Trial Hill Riesling 2010,1.0,24.2,-0.29820139238885784
 5580,13982,Lucien Boillot Puligny-Montrachet 1er Cru Les Perrières 2016,0.0,83.7,1.84127638324417
 4405,13230,Cognac Frapin Château de Fontpinot XO 1/2,0.0,68.1,1.2803376723218969
 4780,13096,Maurice Schoech Crémant d'Alsace Brut Rosé Bulles de Granite,1.0,13.7,-0.6757562939711568
-4196,13032,Château de La Liquière Faugères Tucade 2015,2.0,27.2,-0.1903285633653438
+4196,13032,Château de La Liquière Faugères Tucade 2015,2.0,27.2,-0.19032856336534382
 4398,12641,Wemyss Malts Blended Malt Scotch Whisky Peat Chimney Batch Strength,0.0,59.0,0.9531234242839046
 4629,2534,Marcel Windholtz Eau de Vie de Fraise,2.0,52.4,0.7158032004321738
 4632,2179,Marcel Windholtz Eau de Vie de Quetsch d'Alsace Réserve Particulière,0.0,50.0,0.6295049372133626
-4148,1364,Champagne Mailly Grand Cru Brut Rosé,0.0,37.5,0.1800348162820542
-4627,805,Marcel Windholtz Eau de Vie de Poire Williams Réserve Particulière,4.0,58.3,0.9279530975117511
+4148,1364,Champagne Mailly Grand Cru Brut Rosé,0.0,37.5,0.18003481628205428
+4627,805,Marcel Windholtz Eau de Vie de Poire Williams Réserve Particulière,4.0,58.3,0.9279530975117513
 4631,791,Marcel Windholtz Eau de Vie de Baie de Houx,0.0,76.8,1.5931688764900875
 7247,13127-1,Clos du Mont-Olivet Châteauneuf-du-Pape 2007,0.0,54.8,0.8021014636509849
-5563,19821,Tempier Bandol Tourtine 2017,0.0,58.0,0.9171658146094
+5563,19821,Tempier Bandol Tourtine 2017,0.0,58.0,0.9171658146093999
 4032,19814,Pierre Jean Villa IGP Collines Rhodaniennes Gamine 2018,3.0,14.1,-0.6613732501013548
 4782,16564,Paul Ginglinger Pinot Blanc 2017,3.0,9.8,-0.815990971701725
 4301,16553,Domaine de La Tour Du Bon Bandol Rosé 2019,3.0,17.5,-0.5391173772080391
@@ -58,7 +58,7 @@ product_id,sku,post_title,total_sales,price,z_score
 4734,16138,Camin Larredya Jurançon Moelleux Costat Darrer 2018,1.0,15.3,-0.6182241184919494
 4075,16069,Plateau des Chênes Lirac 2015,0.0,14.7,-0.6397986842966522
 4286,16066,Domaine Hauvette Les Baux de Provence Amethyste 2017,10.0,69.8,1.341465608768555
-4900,16063,Domaine Brintet Mercurey Rouge Vieilles Vignes 2018,1.0,20.8,-0.4204572652821736
+4900,16063,Domaine Brintet Mercurey Rouge Vieilles Vignes 2018,1.0,20.8,-0.42045726528217364
 4208,16024,Domaine Montrose Côtes de Thongue Rosé 2019,16.0,7.6,-0.8950977129856352
 5380,16022,Nouvelle-Zélande Marlborough Momo Sauvignon Blanc 2018,0.0,18.0,-0.5211385723707868
 6073,15951,Jacqueson Rully Rouge 1er Cru Les Preaux 2018,0.0,24.5,-0.2874141094865064
@@ -66,7 +66,7 @@ product_id,sku,post_title,total_sales,price,z_score
 4221,15829,Xavier Frissant Touraine Les Roses du Clos 2018,15.0,12.8,-0.7081181426782109
 4799,15811,Domaine de la Monardière Vacqueyras Les Deux Monardes 2017,3.0,14.9,-0.6326071623617513
 6328,15810,Le Pas de l'Escalette IGP Pays d'Hérault Les Clapas Blanc 2018,0.0,22.4,-0.3629250898029662
-6628,15792,Weingut Besson-Strasser Zürich Blauer Zweigelt 2016,0.0,32.2,-0.0105405149928203
+6628,15792,Weingut Besson-Strasser Zürich Blauer Zweigelt 2016,0.0,32.2,-0.010540514992820353
 4222,15759,Xavier Frissant Touraine Amboise M de La Touche 2016,4.0,8.9,-0.8483528204087792
 4962,15737,Château Turcaud Bordeaux Blanc Cuvée Majeure 2018,14.0,11.3,-0.762054557189968
 4790,15732,Maurice Schoech Riesling 2018,0.0,11.1,-0.7692460791248689
@@ -81,27 +81,27 @@ product_id,sku,post_title,total_sales,price,z_score
 4703,15465,Albert Mann Crémant d'Alsace Extra Brut 2017,7.0,19.8,-0.4564148749566783
 4229,15403,Mérieau Touraine L'Arpent des Vaudons 2018,0.0,9.6,-0.8231824936366259
 4161,15375,Planeta Sicilia Plumbago 2017,0.0,11.6,-0.7512672742876165
-3850,15300,Pierre Jean Villa Crozes-Hermitage Accroche Coeur 2018,0.0,20.8,-0.4204572652821736
+3850,15300,Pierre Jean Villa Crozes-Hermitage Accroche Coeur 2018,0.0,20.8,-0.42045726528217364
 5546,15202,Thierry Germain Saumur-Champigny Cuvée Domaine 2018,6.0,15.2,-0.6218198794593999
 4165,15075,Parés Baltà Penedès Indigena 2017,3.0,12.0,-0.7368842304178147
-5709,15035,Philippe Alliet Chinon Rouge Coteau de Noiré 2016,0.0,31.7,-0.0285193198300728
-4065,15022,Oratoire Saint Martin Cairanne Rouge Les Douyes 2016,0.0,19.5,-0.4672021578590297
+5709,15035,Philippe Alliet Chinon Rouge Coteau de Noiré 2016,0.0,31.7,-0.028519319830072814
+4065,15022,Oratoire Saint Martin Cairanne Rouge Les Douyes 2016,0.0,19.5,-0.46720215785902974
 4155,14944,Elian Daros Côtes du Marmandais Le Vignoble d'Elian 2016,3.0,14.5,-0.646990206231553
 6886,14897,Gratavinum Priorat GV5 2011,0.0,42.0,0.3418440598173253
-5616,14845,"Albert Boxler Pinot Noir ""S"" 2016",2.0,38.4,0.2123966649891084
-5617,14844,Albert Boxler Pinot Gris Réserve 2016,3.0,27.8,-0.1687539975606409
-6108,14797,Gilles Robin Cornas 2016,0.0,46.0,0.4856744985153439
+5616,14845,"Albert Boxler Pinot Noir ""S"" 2016",2.0,38.4,0.21239666498910842
+5617,14844,Albert Boxler Pinot Gris Réserve 2016,3.0,27.8,-0.16875399756064097
+6108,14797,Gilles Robin Cornas 2016,0.0,46.0,0.48567449851534394
 5379,14561,Argentine Mendoza Alamos Torrontes 2017,0.0,11.1,-0.7692460791248689
 5903,14099,Stéphane Tissot Arbois Trousseau Singulier 2017,0.0,27.3,-0.1867328023978933
 5796,13895,Château Saransot-Dupré Bordeaux Blanc 2016,0.0,12.5,-0.7189054255805624
-4655,13516,Thierry Germain Saumur-Champigny Les Mémoires 2016,0.0,40.2,0.2771203624032169
+4655,13516,Thierry Germain Saumur-Champigny Les Mémoires 2016,0.0,40.2,0.27712036240321697
 4357,9562,Champagne Larmandier-Bernier Latitude,0.0,39.0,0.2339712307938113
-4731,8344,Domaine Muré Crémant d'Alsace Rosé,18.0,22.0,-0.377308133672768
+4731,8344,Domaine Muré Crémant d'Alsace Rosé,18.0,22.0,-0.37730813367276805
 4401,3506,Cognac Frapin VSOP,1.0,62.5,1.0789750581446709
 4144,1662,Champagne Gosset Grand Rosé,87.0,49.0,0.593547327538858
 5932,523,Cognac Normandin Mercier VFC,0.0,59.9,0.9854852729909588
 4634,41,Marcel Windholtz Eau de Vie de Marc de Gewurztraminer,0.0,41.0,0.3058864501428206
-4039,19815,Pierre Jean Villa Côte Rôtie Carmina 2017,0.0,46.0,0.4856744985153439
+4039,19815,Pierre Jean Villa Côte Rôtie Carmina 2017,0.0,46.0,0.48567449851534394
 4297,16246,Domaine de La Tour Du Bon Bandol Blanc 2019,0.0,19.0,-0.4851809626962821
 7338,16230,Domaine Saint-Nicolas Vin de France Blanc Les Clous 2019,0.0,16.3,-0.5822665088174447
 4174,16209,Maurel Cabardès Tradition 2017,6.0,5.7,-0.9634171713671942
@@ -114,45 +114,45 @@ product_id,sku,post_title,total_sales,price,z_score
 7025,15887,Domaine Jamet Côte Rôtie Fructus Voluptas 2018,0.0,69.0,1.3126995210289514
 4620,15850,Bernard Baudry Chinon Rouge Les Granges 2018,6.0,11.9,-0.7404799913852652
 4270,15839,Domaine Sérol Côte Roannaise Les Millerands 2018,4.0,15.5,-0.6110325965570484
-6887,15736,Gratavinum Priorat 2?r 2017,0.0,21.8,-0.3844996556076689
+6887,15736,Gratavinum Priorat 2?r 2017,0.0,21.8,-0.38449965560766897
 4210,15720,Lucien Boillot Nuits-Saint-Georges 1er Cru Les Pruliers 2017,0.0,79.8,1.7010417055136016
-6570,15706,Decelle-Villa Marsannay Les Longeroies 2015,0.0,29.2,-0.1184133440163344
-6569,15705,Decelle-Villa Chorey-Lès-Beaune 2016,3.0,29.0,-0.1256048659512353
+6570,15706,Decelle-Villa Marsannay Les Longeroies 2015,0.0,29.2,-0.11841334401633448
+6569,15705,Decelle-Villa Chorey-Lès-Beaune 2016,3.0,29.0,-0.12560486595123538
 4716,15657,Domaine Schoenheitz Pinot Gris Herrenreben 2017,0.0,18.6,-0.4995640065660839
 4176,15629,Domaine de l'Hortus Pic Saint-Loup La Bergerie Rouge 2018,9.0,13.5,-0.6829478159060577
 4670,15525,Domaine Pellé Menetou Salon Blanc Morogues 2018,2.0,17.0,-0.5570961820452914
 4163,15482,Parés Baltà Penedès Calcari 2018,3.0,10.8,-0.7800333620272203
 6573,15473,Marc Colin Et Fils Chassagne-Montrachet 1er Cru Les Champs Gain 2017,1.0,68.3,1.287529194256798
-4566,15457,Domaine de Montcalmès Coteaux du Languedoc Blanc 2017,0.0,28.5,-0.1435836707884877
-4070,15444,Gilles Robin Crozes-Hermitage Blanc Les Marelles 2018,7.0,23.4,-0.3269674801284615
+4566,15457,Domaine de Montcalmès Coteaux du Languedoc Blanc 2017,0.0,28.5,-0.14358367078848772
+4070,15444,Gilles Robin Crozes-Hermitage Blanc Les Marelles 2018,7.0,23.4,-0.32696748012846155
 6585,15434,La Préceptorie Côtes du Roussillon Blanc Terres Nouvelles 2018,0.0,19.0,-0.4851809626962821
 6753,15256,Château Simone Palette Rouge 2015,0.0,46.5,0.5036533033525963
 5820,15240,Maison Trimbach Riesling Cuvée Frédéric Emile 2012,0.0,63.5,1.1149326678191755
 4715,15196,Domaine Schoenheitz Pinot Blanc Val Saint Grégoire 2017,0.0,11.1,-0.7692460791248689
 4885,14981,Saumaize-Michelin Mâcon Vergisson Sur La Roche 2017,0.0,18.7,-0.4959682455986335
-4043,14980,Pierre Gaillard Côte Rôtie Esprit de Blonde 2017,3.0,60.0,0.9890810339584092
+4043,14980,Pierre Gaillard Côte Rôtie Esprit de Blonde 2017,3.0,60.0,0.9890810339584093
 4726,14950,François Baur Pinot Noir Schlittweg 2017,4.0,12.7,-0.7117139036456614
 4400,14768,Cognac Frapin 1270,0.0,44.0,0.4137592791663346
-5573,14729,Domaine Huet Vouvray Le Clos du Bourg Demi-Sec 2017,0.0,34.7,0.0793535091934413
+5573,14729,Domaine Huet Vouvray Le Clos du Bourg Demi-Sec 2017,0.0,34.7,0.07935350919344132
 5448,14469,Parcé Frères Côtes du Roussillon Villages Hommage à Fernand 2017,0.0,7.2,-0.9094807568554372
-5554,13969,Thierry Germain Saumur-Champigny Clos de l'Echelier 2017,0.0,38.0,0.1980136211193066
+5554,13969,Thierry Germain Saumur-Champigny Clos de l'Echelier 2017,0.0,38.0,0.19801362111930662
 5445,12194,La Préceptorie Maury Blanc 2015,0.0,16.3,-0.5822665088174447
 4619,11049,Alphonse Mellot Sancerre Rouge En Grands Champs 2012,0.0,59.0,0.9531234242839046
-4253,6616,Domaine Huet Vouvray Le Clos du Bourg Moelleux Première Trie 2008,0.0,59.6,0.9746979900886076
-6206,16580,Domaine Giudicelli Patrimonio Blanc 2019,41.0,25.2,-0.2622437827143531
+4253,6616,Domaine Huet Vouvray Le Clos du Bourg Moelleux Première Trie 2008,0.0,59.6,0.9746979900886075
+6206,16580,Domaine Giudicelli Patrimonio Blanc 2019,41.0,25.2,-0.26224378271435317
 4858,16342,Château Turcaud Bordeaux Rosé 2019,1.0,6.5,-0.9346510836275904
 4062,16320,Mourgues du Grès IGP Pont du Gard Terre d'Argence 2018,3.0,11.9,-0.7404799913852652
-4152,16238,Elian Daros Côtes du Marmandais Chante Coucou 2016,7.0,19.2,-0.4779894407613811
-4153,16237,Elian Daros Côtes du Marmandais Clos Baquey 2015,36.0,29.0,-0.1256048659512353
-5779,16213,Maurel Pays d'Oc Syrah 2019,8.0,5.8,-0.9598214103997436
+4152,16238,Elian Daros Côtes du Marmandais Chante Coucou 2016,7.0,19.2,-0.47798944076138117
+4153,16237,Elian Daros Côtes du Marmandais Clos Baquey 2015,36.0,29.0,-0.12560486595123538
+5779,16213,Maurel Pays d'Oc Syrah 2019,8.0,5.8,-0.9598214103997437
 4095,16120,Paul Ginglinger Muscat Caroline 2018,4.0,12.6,-0.7153096646131119
-6615,16071,Clos du Mont-Olivet Châteauneuf-du-Pape 2018,0.0,32.8,0.0110340508118822
+6615,16071,Clos du Mont-Olivet Châteauneuf-du-Pape 2018,0.0,32.8,0.011034050811882244
 6666,16067,Domaine Hauvette IGP Alpilles Dolia 2013,0.0,48.5,0.5755685227016056
-4042,16042,Pierre Gaillard Cornas 2017,7.0,31.2,-0.0464981246673251
+4042,16042,Pierre Gaillard Cornas 2017,7.0,31.2,-0.04649812466732515
 6617,16031,Clos du Mont-Olivet Vins de Pays du Gard Rive Droite 2018,6.0,9.9,-0.8123952107342746
-5609,15930,Domaine Weinbach Riesling Cuvée Colette 2018,2.0,38.6,0.2195881869240094
-5524,15864,Domaine Chambeyron Condrieu Vernon 2018,1.0,38.6,0.2195881869240094
-6137,15834,Domaine de Vaccelli Ajaccio Blanc Sirocco 2017,2.0,46.0,0.4856744985153439
+5609,15930,Domaine Weinbach Riesling Cuvée Colette 2018,2.0,38.6,0.21958818692400947
+5524,15864,Domaine Chambeyron Condrieu Vernon 2018,1.0,38.6,0.21958818692400947
+6137,15834,Domaine de Vaccelli Ajaccio Blanc Sirocco 2017,2.0,46.0,0.48567449851534394
 5891,15774,Saumaize-Michelin Viré-Clessé 2018,1.0,19.0,-0.4851809626962821
 5484,15756,David-Beaupère Juliénas Vayolette 2017,1.0,21.6,-0.3916911775425699
 4300,15567,Domaine de La Tour Du Bon Bandol Rouge En Sol 2017,1.0,44.0,0.4137592791663346
@@ -161,46 +161,46 @@ product_id,sku,post_title,total_sales,price,z_score
 5925,15351,Albert Mann Riesling Grand Cru Furstentum 2017,2.0,49.5,0.6115261323761103
 5067,15346,Albert Mann Pinot Noir Grand H 2017,16.0,59.9,0.9854852729909588
 5815,15238,Maison Trimbach Muscat Réserve 2017,1.0,16.6,-0.5714792259150933
-6621,15204,Thierry Germain Saumur-Champigny La Marginale 2018,3.0,35.2,0.0973323140306936
-5770,15178,Camille Giroud Santenay Blanc 2017,4.0,34.4,0.0685662262910897
-6227,15163,Le Pas de l'Escalette Terrasses du Larzac Les Frieys 2017,1.0,40.2,0.2771203624032169
+6621,15204,Thierry Germain Saumur-Champigny La Marginale 2018,3.0,35.2,0.09733231403069365
+5770,15178,Camille Giroud Santenay Blanc 2017,4.0,34.4,0.06856622629108976
+6227,15163,Le Pas de l'Escalette Terrasses du Larzac Les Frieys 2017,1.0,40.2,0.27712036240321697
 6225,15162,Le Pas de l'Escalette IGP Hérault Ze Cinsault 2017,4.0,20.4,-0.4348403091519756
-6050,15134,Christophe Pichon Condrieu 2017,0.0,38.5,0.2159924259565589
+6050,15134,Christophe Pichon Condrieu 2017,0.0,38.5,0.21599242595655896
 5704,15036,Domaine de l'Ecu Muscadet Gneiss 2015,0.0,16.9,-0.560691943012742
 4613,15030,Gilbert Picq Chablis 2017,9.0,16.9,-0.560691943012742
 4704,15004,Albert Mann Gewurztraminer 2017,3.0,18.2,-0.5139470504358858
 5544,14828,Marc Colin Et Fils Chassagne-Montrachet Blanc Les Vide-Bourses 1er Cru 2016,0.0,61.6,1.0466132094376168
-5002,14580,David Duband Morey-Saint-Denis 1er Cru Les Broc 2016,0.0,64.9,1.1652733213634825
+5002,14580,David Duband Morey-Saint-Denis 1er Cru Les Broc 2016,0.0,64.9,1.1652733213634823
 4779,14300,Clos du Mont-Olivet Vin de France La Sabonite,18.0,7.8,-0.8879061910507343
-6101,14089,Stéphane Tissot Arbois Blanc La Mailloche 2016,0.0,36.9,0.1584602504773514
+6101,14089,Stéphane Tissot Arbois Blanc La Mailloche 2016,0.0,36.9,0.15846025047735143
 4271,13460,Domaine Sérol Côte Roannaise Perdrizière 2016,0.0,16.6,-0.5714792259150933
-4303,13172,Rimauresq Côtes de Provence Rouge Cru Classé Quintessence 2015,0.0,30.0,-0.0896472562767307
+4303,13172,Rimauresq Côtes de Provence Rouge Cru Classé Quintessence 2015,0.0,30.0,-0.08964725627673072
 5905,12881,Domaine de Montbourgeau L'Etoile Vin Jaune 2009,2.0,43.9,0.4101635181988841
 4353,12587,Champagne Egly-Ouriet Grand Cru Brut Rosé,3.0,79.5,1.6902544226112504
 4392,11586,Wemyss Malts Blended Malt Scotch Whisky Spice King,0.0,49.5,0.6115261323761103
 4334,7818,Champagne Gosset Grand Blanc de Blancs,96.0,49.0,0.593547327538858
 4150,1366,Champagne Mailly Grand Cru Intemporelle 2010,1.0,59.0,0.9531234242839046
 4630,793,Marcel Windholtz Eau de Vie de Coing,4.0,62.4,1.0753792971772205
-5561,19820,Tempier Bandol Migoua 2017,0.0,58.0,0.9171658146094
+5561,19820,Tempier Bandol Migoua 2017,0.0,58.0,0.9171658146093999
 6205,16565,Domaine Giudicelli Vin de France Corail Rouge 2019,0.0,20.2,-0.4420318310868765
 4181,16560,Borie La Vitarèle Saint-Chinian Les Terres Blanches 2019,9.0,11.9,-0.7404799913852652
 4103,16505,Emile Boeckel Riesling Grand Cru Wiebelsberg 2016,12.0,16.3,-0.5822665088174447
 4225,16497,Pierre Martin Sancerre Chavignol Blanc 2019,13.0,16.9,-0.560691943012742
-4931,16280,Marcel Richaud Cairanne Rouge L'Ebrescade 2017,0.0,27.8,-0.1687539975606409
+4931,16280,Marcel Richaud Cairanne Rouge L'Ebrescade 2017,0.0,27.8,-0.16875399756064097
 4172,16210,Maurel Pays d'Oc Chardonnay 2019,43.0,5.7,-0.9634171713671942
 4179,16166,Domaine de l'Hortus Pic Saint-Loup La Grande Cuvée 2018,7.0,24.0,-0.3053929143237587
 4870,16149,Triennes IGP Méditerranée Rosé 2019,33.0,9.3,-0.8339697765389773
 6620,16046,Domaine de La Tour Du Bon Bandol Rouge Saint Ferréol 2005,0.0,51.0,0.6654625468878673
-4889,16037,Saumaize-Michelin Pouilly-Fuissé Vignes Blanches 2018,0.0,25.3,-0.2586480217469026
-4207,16023,Domaine Montrose Côtes de Thongue Rouge 2018,5.0,6.7,-0.9274595616926896
+4889,16037,Saumaize-Michelin Pouilly-Fuissé Vignes Blanches 2018,0.0,25.3,-0.25864802174690266
+4207,16023,Domaine Montrose Côtes de Thongue Rouge 2018,5.0,6.7,-0.9274595616926895
 4086,16013,Rimauresq Côtes de Provence Blanc Cru Classé 2019,4.0,16.4,-0.5786707478499943
-4071,15953,Château de Vaudieu Châteauneuf-du-Pape Rouge 2015,19.0,33.2,0.0254170946816843
+4071,15953,Château de Vaudieu Châteauneuf-du-Pape Rouge 2015,19.0,33.2,0.025417094681684314
 5611,15945,Domaine Weinbach Riesling Grand Cru Schlossberg Cuvée Ste Catherine 2018,1.0,63.4,1.1113369068517251
 4074,15941,Domaine de la Jérôme Côtes du Rhône Village 201,4.0,12.7,-0.7117139036456614
 5693,15812,Philippe Nusswitz Duché d'Uzès Orénia Blanc Réserve 2018,11.0,13.0,-0.70092662074331
 6632,15794,Weingut Besson-Strasser Zürich Pinot Noir Chlosterberg 2016,1.0,52.7,0.7265904833345254
 6928,15741,Le Cèdre de Jean Faure Saint-Emilion 2016,2.0,19.0,-0.4851809626962821
-4728,15729,Maurice Schoech Gewurztraminer Vendanges Tardives 2017,2.0,29.5,-0.107626061113983
+4728,15729,Maurice Schoech Gewurztraminer Vendanges Tardives 2017,2.0,29.5,-0.10762606111398305
 4211,15714,Lucien Boillot Pommard 2017,1.0,48.5,0.5755685227016056
 4159,15668,Planeta Sicilia La Segreta Bianco 2017,3.0,9.3,-0.8339697765389773
 6280,15654,Borie de Maurel Minervois Blanc La Belle Aude 2018,0.0,10.4,-0.7944164058970222
@@ -213,7 +213,7 @@ product_id,sku,post_title,total_sales,price,z_score
 4908,14395,Alphonse Mellot Sancerre Blanc Edmond 2016,4.0,53.2,0.7445692881717777
 5026,13913,Champagne Agrapart &amp; Fils Minéral Extra Brut Blanc de Blancs Grand Cru 2012,0.0,86.8,1.9527449732351343
 4235,13905,Maroc Graillot/Thaleb Tandem Syrah 2015,1.0,17.1,-0.5535004210778409
-4783,13754,Maurice Schoech Pinot Gris Vendanges Tardives 2015,0.0,29.5,-0.107626061113983
+4783,13754,Maurice Schoech Pinot Gris Vendanges Tardives 2015,0.0,29.5,-0.10762606111398305
 4573,13604,Château de Meursault Beaune-Grèves Les Trois Journaux 1er Cru 2015,0.0,67.2,1.247975823614843
 4053,13127,Clos du Mont-Olivet Châteauneuf-du-Pape 2012,23.0,44.3,0.4245465620686859
 4219,12599,Domaine de l'Ecu Muscadet Orthogneiss 2014,1.0,16.7,-0.5678834649476429
@@ -221,71 +221,71 @@ product_id,sku,post_title,total_sales,price,z_score
 4636,2361,Marcel Windholtz Eau de Vie de Framboise d'Alsace,1.0,50.0,0.6295049372133626
 4267,16537,Domaine Bulliat Morgon Amphore Cou de Jus 2019,2.0,19.0,-0.4851809626962821
 5446,16328,Parcé Frères Banyuls Rimage 2018,0.0,16.2,-0.5858622697848952
-4200,16295,Moulin de Gassac IGP Pays d'Hérault Guilhem Rosé 2019,46.0,5.8,-0.9598214103997436
+4200,16295,Moulin de Gassac IGP Pays d'Hérault Guilhem Rosé 2019,46.0,5.8,-0.9598214103997437
 4191,16263,Château de La Liquière Faugères Les Amandiers Rouge 2019,12.0,9.3,-0.8339697765389773
 4245,16097,Parcé Frères IGP Pays d'Oc Zoé Viognier 2019,1.0,8.9,-0.8483528204087792
 5904,15856,Domaine de Montbourgeau Côtes du Jura Poulsard 2018,0.0,18.8,-0.492372484631183
-4891,15807,Jacqueson Rully Blanc 1er Cru La Pucelle 2018,36.0,27.9,-0.1651582365931905
+4891,15807,Jacqueson Rully Blanc 1er Cru La Pucelle 2018,36.0,27.9,-0.16515823659319057
 6920,15740,Château Jean Faure Saint-Emilion Grand Cru 2015,0.0,50.5,0.647483742050615
-4909,15614,Antoine-Marie Arena Vin de France Bianco Gentile 2018,0.0,25.9,-0.2370734559421999
+4909,15614,Antoine-Marie Arena Vin de France Bianco Gentile 2018,0.0,25.9,-0.23707345594219992
 5958,15577,Domaine Labranche Laffont Madiran Tradition 2016,0.0,8.7,-0.8555443423436802
 6093,15487,Château de Villeneuve Saumur-Champigny 2017,1.0,12.6,-0.7153096646131119
-5069,15344,Albert Mann Pinot Noir Les Saintes Claires 2017,0.0,65.0,1.168869082330933
-6223,15324,Planeta Sicilia Chardonnay 2017,6.0,26.7,-0.2083073682025961
+5069,15344,Albert Mann Pinot Noir Les Saintes Claires 2017,0.0,65.0,1.1688690823309327
+6223,15324,Planeta Sicilia Chardonnay 2017,6.0,26.7,-0.20830736820259615
 4679,15283,Domaine Rotier Gaillac Rouge Renaissance 2016,0.0,13.2,-0.6937350988084091
-5766,15179,Camille Giroud Auxey-Duresses Blanc 2017,0.0,35.6,0.1117153579004954
+5766,15179,Camille Giroud Auxey-Duresses Blanc 2017,0.0,35.6,0.11171535790049547
 4304,15120,Domaine de l'Idylle Savoie Cruet 2018,0.0,8.1,-0.8771189081483829
 5736,15116,Triennes IGP Méditerranée Blanc Sainte Fleur 2018,5.0,14.9,-0.6326071623617513
-5614,14856,Albert Boxler Crémant d'Alsace Brut 2014,3.0,19.2,-0.4779894407613811
+5614,14856,Albert Boxler Crémant d'Alsace Brut 2014,3.0,19.2,-0.47798944076138117
 4241,14725,Parcé Frères IGP Côtes Catalanes Hommage à Fernand Blanc 2019,1.0,8.9,-0.8483528204087792
-4705,14699,Albert Mann Gewurztraminer Grand Cru Steingrubler 2016,8.0,31.6,-0.0321150807975232
+4705,14699,Albert Mann Gewurztraminer Grand Cru Steingrubler 2016,8.0,31.6,-0.032115080797523204
 4672,14676,Domaine Pellé Menetou Salon Rouge Morogues 2017,0.0,17.8,-0.5283300943056877
 4748,14632,Jean-Paul Brun Saint-Amour 2017,0.0,14.5,-0.646990206231553
 4791,14599,Maurice Schoech Pinot Noir Pièce de Chêne 2016,0.0,13.6,-0.6793520549386072
 4276,14527,I Fabbri Chianti Classico Terra Di Lamole 2015,0.0,17.6,-0.5355216162405886
 4684,14451,Château Plaisance Fronton To Co Que Cal 2015,3.0,18.1,-0.5175428114033362
 5810,14429,Château Tour De Pez Saint-Estèphe 2017,0.0,24.0,-0.3053929143237587
-5914,14265,Darnley's London Dry Gin Spiced,1.0,36.0,0.1260984017702972
-4256,14253,Domaine Huet Vouvray Haut-Lieu Sec 2017,0.0,24.4,-0.2910098704539569
+5914,14265,Darnley's London Dry Gin Spiced,1.0,36.0,0.12609840177029727
+4256,14253,Domaine Huet Vouvray Haut-Lieu Sec 2017,0.0,24.4,-0.29100987045395693
 4910,13809,Antoine-Marie Arena Vin de France Rouge San Giovanni 2017,4.0,17.3,-0.54630889914294
-4394,13766,Wemyss Malts Blended Malt Scotch Whisky Treacle Chest,0.0,59.8,0.9818895120235084
+4394,13766,Wemyss Malts Blended Malt Scotch Whisky Treacle Chest,0.0,59.8,0.9818895120235083
 4689,13736,Domaine Plageoles Côtes du Tarn Blanc Sec Ondenc,1.0,12.8,-0.7081181426782109
-4666,13647,Vincent Carême Vouvray Moelleux 2015,0.0,21.0,-0.4132657433472727
+4666,13647,Vincent Carême Vouvray Moelleux 2015,0.0,21.0,-0.41326574334727273
 5806,13567,Château La Croix Meunier Saint-Emilion Grand Cru 2014,2.0,17.4,-0.5427131381754896
 5056,13531,Domaine de Montgilet Anjou Rouge 2016,1.0,7.5,-0.8986934739530857
 4078,13435,Domaine des Bosquets Gigondas La Colline 2015,10.0,44.0,0.4137592791663346
-4257,12476,Domaine Huet Vouvray Le Mont Moelleux 2015,0.0,31.7,-0.0285193198300728
-4254,12203,Domaine Huet Vouvray Haut-Lieu Demi-Sec 2015,0.0,26.9,-0.2011158462676952
+4257,12476,Domaine Huet Vouvray Le Mont Moelleux 2015,0.0,31.7,-0.028519319830072814
+4254,12203,Domaine Huet Vouvray Haut-Lieu Demi-Sec 2015,0.0,26.9,-0.20111584626769524
 5819,11933,Maison Trimbach Riesling Cuvée Frédéric Emile 2008,1.0,56.0,0.8452505952603906
-5383,3383,Nouvelle-Zélande Marlborough Kim Crawford Sauvignon Blanc 2015,0.0,19.5,-0.4672021578590297
+5383,3383,Nouvelle-Zélande Marlborough Kim Crawford Sauvignon Blanc 2015,0.0,19.5,-0.46720215785902974
 4141,304,Champagne Gosset Grande Réserve,40.0,39.0,0.2339712307938113
 4299,16578,Domaine de La Tour Du Bon Bandol Rouge Saint Ferréol 2018,0.0,39.1,0.2375669917612618
 4068,16416,Gilles Robin Crozes-Hermitage Rouge Papillon 2019,62.0,16.6,-0.5714792259150933
 4686,16324,Cosse Maisonneuve Cahors Solis 2018,2.0,14.0,-0.6649690110688053
-4198,16322,Moulin de Gassac IGP Pays d'Hérault Guilhem Rouge 2019,0.0,5.8,-0.9598214103997436
+4198,16322,Moulin de Gassac IGP Pays d'Hérault Guilhem Rouge 2019,0.0,5.8,-0.9598214103997437
 4268,16307,Domaine Bulliat Morgon Le Colombier 2019,1.0,15.2,-0.6218198794593999
 5480,16306,Domaine Bulliat Chiroubles Cuvée Félix 2019,1.0,10.4,-0.7944164058970222
 4232,16269,Argentine Mendoza Alamos Chardonnay 2019,2.0,11.1,-0.7692460791248689
-4755,16132,Domaine de Montgilet Vin de France Grolleau 2019,0.0,7.4,-0.9022892349205364
-6665,16068,Domaine Hauvette IGP Alpilles Jaspe 2017,1.0,27.7,-0.1723497585280914
+4755,16132,Domaine de Montgilet Vin de France Grolleau 2019,0.0,7.4,-0.9022892349205363
+6665,16068,Domaine Hauvette IGP Alpilles Jaspe 2017,1.0,27.7,-0.17234975852809148
 4669,16053,Domaine Pellé Menetou Salon Blanc Le Carroir 2018,1.0,20.2,-0.4420318310868765
 4048,16044,Pierre Gaillard Saint-Joseph Rouge Clos de Cuminaille 2018,7.0,22.8,-0.3485420459331643
-4066,15967,Oratoire Saint Martin Cairanne Rouge Haut Coustias 2016,20.0,20.8,-0.4204572652821736
+4066,15967,Oratoire Saint Martin Cairanne Rouge Haut Coustias 2016,20.0,20.8,-0.42045726528217364
 4064,15966,Oratoire Saint Martin Cairanne Rouge Réserve des Seigneurs 2017,3.0,14.4,-0.6505859671990036
 4892,15952,Jacqueson Rully Rouge Les Chaponnières 2018,3.0,20.1,-0.4456275920543269
 5764,15818,Parcé Frères Collioure Rouge Petit Gus 2018,12.0,12.9,-0.7045223817107605
 6629,15793,Weingut Besson-Strasser Zürich Pinot Noir Cholfirst 2017,1.0,37.7,0.1872263382169553
 4168,15784,Ollieux Romanis Corbières Blanc Cuvée Prestige 2018,12.0,18.2,-0.5139470504358858
-6567,15779,"Decelle-Villa Côte de Nuits Villages ""Aux Montagnes"" 2014",0.0,28.4,-0.1471794317559382
-5062,15713,Lucien Boillot Gevrey Chambertin 2017,2.0,45.0,0.4497168888408392
+6567,15779,"Decelle-Villa Côte de Nuits Villages ""Aux Montagnes"" 2014",0.0,28.4,-0.14717943175593823
+5062,15713,Lucien Boillot Gevrey Chambertin 2017,2.0,45.0,0.44971688884083927
 4094,15676,Paul Ginglinger Gewurztraminer Wahlenbourg 2017,0.0,13.7,-0.6757562939711568
 4263,15664,Chermette Domaine du Vissoux Fleurie Poncié 2018,0.0,15.8,-0.600245313654697
 4192,15605,Château de La Liquière Faugères Cistus Rouge 2017,5.0,17.8,-0.5283300943056877
 4687,15582,Cosse-Maisonneuve Cahors Le Sid 2014,0.0,30.1,-0.0860514953092802
-4934,15554,Marcel Richaud Rasteau Rouge 2017,2.0,22.2,-0.3701166117378671
-6095,15489,Château de Villeneuve Saumur-Champigny Le Grand Clos 2017,0.0,29.8,-0.0968387782116316
+4934,15554,Marcel Richaud Rasteau Rouge 2017,2.0,22.2,-0.37011661173786714
+6095,15489,Château de Villeneuve Saumur-Champigny Le Grand Clos 2017,0.0,29.8,-0.09683877821163163
 4077,15440,Domaine des Bosquets Gigondas 2016,0.0,22.9,-0.3449462849657139
-4558,15426,Domaine de Montcalmès Terrasses du Larzac Rouge 2017,3.0,28.1,-0.1579667146582895
+4558,15426,Domaine de Montcalmès Terrasses du Larzac Rouge 2017,3.0,28.1,-0.15796671465828954
 4203,15415,Mas Laval IGP Pays d'Hérault Les Pampres Blancs 2018,6.0,9.9,-0.8123952107342746
 4665,15404,Vincent Carême Vouvray Sec 2018,2.0,14.4,-0.6505859671990036
 5705,15360,Domaine Huet Vouvray Pétillant Brut 2014,2.0,19.8,-0.4564148749566783
@@ -293,23 +293,23 @@ product_id,sku,post_title,total_sales,price,z_score
 5829,15329,Agnès Levet Côte Rôtie Péroline 2017,3.0,57.0,0.8812082049348953
 4046,15269,Pierre Gaillard Côte Rôtie Rose Pourpre 2017,6.0,80.0,1.7082332274485026
 4936,15106,Domaine Rouge Garance Côtes du Rhône Blanc De Garance 2018,11.0,11.1,-0.7692460791248689
-4708,14700,Albert Mann Pinot Gris Grand Cru Furstentum 2016,8.0,32.6,0.0038425288769814
+4708,14700,Albert Mann Pinot Gris Grand Cru Furstentum 2016,8.0,32.6,0.003842528876981463
 5794,14692,Château Fonréaud Bordeaux Blanc Le Cygne 2016,0.0,21.7,-0.3880954165751195
 4995,14509,Domaine Peyre Rose Oro Blanc 2002,0.0,78.0,1.6363180080994932
 4996,14508,Domaine Peyre Rose Marlène N°3 2008,0.0,78.0,1.6363180080994932
 4907,14374,Alphonse Mellot Coteaux Charitois Rouge Les Pénitents 2015,0.0,22.9,-0.3449462849657139
-4752,14184,Domaine de Montgilet Coteaux de l'Aubance Les Trois Schistes 2016,0.0,27.9,-0.1651582365931905
-5550,13958,Thierry Germain Saumur-Champigny La Marginale 2017,0.0,34.3,0.0649704653236392
-5893,13910,Gilbert Picq Chablis 1er Cru Vaucoupin 2016,5.0,26.6,-0.2119031291700465
-4913,13814,Jean-Batiste Arena Muscat du Cap Corse 2015,0.0,28.0,-0.16156247562574
+4752,14184,Domaine de Montgilet Coteaux de l'Aubance Les Trois Schistes 2016,0.0,27.9,-0.16515823659319057
+5550,13958,Thierry Germain Saumur-Champigny La Marginale 2017,0.0,34.3,0.06497046532363925
+5893,13910,Gilbert Picq Chablis 1er Cru Vaucoupin 2016,5.0,26.6,-0.21190312917004653
+4913,13814,Jean-Batiste Arena Muscat du Cap Corse 2015,0.0,28.0,-0.16156247562574005
 4100,13416,Emile Boeckel Gewurztraminer Grand Cru Zotzenberg 2016,0.0,15.8,-0.600245313654697
 4938,13379,Domaine Rouge Garance Côtes du Rhône Villages Garances 2016,0.0,12.5,-0.7189054255805624
-4902,13052,Domaine Des Croix Savigny-Lès-Beaune 1er Cru Les Peuillets 2015,0.0,46.0,0.4856744985153439
-4794,12771,Maurice Schoech Riesling Grand Cru Rangen de Thann 2014,0.0,41.6,0.3274610159475234
+4902,13052,Domaine Des Croix Savigny-Lès-Beaune 1er Cru Les Peuillets 2015,0.0,46.0,0.48567449851534394
+4794,12771,Maurice Schoech Riesling Grand Cru Rangen de Thann 2014,0.0,41.6,0.32746101594752347
 5629,8365,Parés Baltà Cava Brut Nature,0.0,10.3,-0.7980121668644726
-4239,16567,Domaine Augustin Collioure Blanc Adéodat 2019,0.0,28.0,-0.16156247562574
-4647,16525,Bernard Baudry Chinon Rouge La Croix Boissée 2017,8.0,28.5,-0.1435836707884877
-4050,16449,Pierre Gaillard Saint-Joseph Blanc 2019,6.0,21.8,-0.3844996556076689
+4239,16567,Domaine Augustin Collioure Blanc Adéodat 2019,0.0,28.0,-0.16156247562574005
+4647,16525,Bernard Baudry Chinon Rouge La Croix Boissée 2017,8.0,28.5,-0.14358367078848772
+4050,16449,Pierre Gaillard Saint-Joseph Blanc 2019,6.0,21.8,-0.38449965560766897
 4933,16281,Marcel Richaud Cairanne Rouge 2018,0.0,18.4,-0.5067555285009849
 4867,16148,Château De La Selve IGP Coteaux de l'Ardèche Maguelonne Rosé 2019,1.0,9.9,-0.8123952107342746
 4673,16057,Domaine Pellé Sancerre Rouge La Croix Au Garde 2017,0.0,19.8,-0.4564148749566783
@@ -317,12 +317,12 @@ product_id,sku,post_title,total_sales,price,z_score
 4681,15933,Domaine de Joy Côtes de Gascogne Blanc Moelleux Saint-André 2018,12.0,7.1,-0.9130765178228876
 7023,15891,Camin Larredya Jurançon Sec La Virada 2018,0.0,27.5,-0.1795412804629924
 4614,15875,Gilbert Picq Chablis En Vaudécorse 2017,11.0,19.0,-0.4851809626962821
-4886,15773,Saumaize-Michelin Pouilly-Fuissé Clos sur la Roche 2018,5.0,28.4,-0.1471794317559382
+4886,15773,Saumaize-Michelin Pouilly-Fuissé Clos sur la Roche 2018,5.0,28.4,-0.14717943175593823
 4788,15731,Maurice Schoech Pinot Gris 2018,3.0,12.3,-0.7260969475154633
 5377,15677,Argentine Alamos Catena Malbec 2017,0.0,19.0,-0.4851809626962821
-4912,15612,Jean-Baptiste Arena Patrimonio Rouge Grotte Di Sole 2018,6.0,25.9,-0.2370734559421999
+4912,15612,Jean-Baptiste Arena Patrimonio Rouge Grotte Di Sole 2018,6.0,25.9,-0.23707345594219992
 4231,15461,Argentine Mendoza Alamos Malbec 2018,1.0,11.1,-0.7692460791248689
-4108,15353,Zind-Humbrecht Riesling Herrenweg de Turckheim 2017,2.0,31.7,-0.0285193198300728
+4108,15353,Zind-Humbrecht Riesling Herrenweg de Turckheim 2017,2.0,31.7,-0.028519319830072814
 5922,15343,Albert Mann Pinot Noir Clos de la Faille 2017,17.0,48.5,0.5755685227016056
 5827,15328,Agnès Levet Côte Rôtie Maestria 2017,3.0,55.0,0.8092929855858859
 4861,15307,Philippe Nusswitz Duché d'Uzès Orénia Rouge 2017,29.0,8.5,-0.8627358642785811
@@ -330,19 +330,19 @@ product_id,sku,post_title,total_sales,price,z_score
 5395,15095,Chili Errazuriz Cabernet Sauvignon 2016,0.0,12.7,-0.7117139036456614
 4251,15032,Domaine Saint-Denis Bourgogne Rouge Le Clos 2017,8.0,14.1,-0.6613732501013548
 4977,14930,Château Lafont Menaut Pessac-Leognan Blanc 2017,3.0,16.3,-0.5822665088174447
-4757,14680,Domaine Saint-Nicolas Fiefs Vendéens Blanc Le Haut des Clous 2017,6.0,26.5,-0.215498890137497
-5817,14600,Maison Trimbach Riesling Grand Cru Geisberg 2012,0.0,57.6,0.902782770739598
-6129,14570,Moulin de Gassac IGP Pays d'Hérault Guilhem Blanc 2017,0.0,5.2,-0.9813959762044464
-6104,14092,Stéphane Tissot Arbois Blanc Savagnin 2015,0.0,33.2,0.0254170946816843
-6105,14090,Stéphane Tissot Côtes du Jura Sursis 2017,7.0,34.8,0.0829492701608915
+4757,14680,Domaine Saint-Nicolas Fiefs Vendéens Blanc Le Haut des Clous 2017,6.0,26.5,-0.21549889013749707
+5817,14600,Maison Trimbach Riesling Grand Cru Geisberg 2012,0.0,57.6,0.9027827707395981
+6129,14570,Moulin de Gassac IGP Pays d'Hérault Guilhem Blanc 2017,0.0,5.2,-0.9813959762044465
+6104,14092,Stéphane Tissot Arbois Blanc Savagnin 2015,0.0,33.2,0.025417094681684314
+6105,14090,Stéphane Tissot Côtes du Jura Sursis 2017,7.0,34.8,0.08294927016089158
 5389,13904,Australie Maverick Breechens Blend 2012,0.0,16.1,-0.5894580307523456
-4079,13078,Le Vieux Donjon Châteauneuf-du-Pape 2013,0.0,37.0,0.1620560114448019
+4079,13078,Le Vieux Donjon Châteauneuf-du-Pape 2013,0.0,37.0,0.16205601144480195
 4073,13074,Château de Vaudieu Châteauneuf-du-Pape L'Avenue 2015,0.0,77.8,1.6291264861645922
 6041,13073,Château de Vaudieu Châteauneuf-du-Pape Amiral G 2015,0.0,71.7,1.409785067150114
 4076,13072,Plateau des Chênes Lirac 2016,4.0,14.05,-0.6631711305850801
 4348,12586,Champagne Egly-Ouriet Grand Cru Brut Tradition,0.0,59.0,0.9531234242839046
 5397,12496,Chili De Martino Viejas Tinajas Cinsault 2013,0.0,24.0,-0.3053929143237587
-6222,7032,Planeta Sicilia Passito di Noto 2016,0.0,26.4,-0.2190946511049475
+6222,7032,Planeta Sicilia Passito di Noto 2016,0.0,26.4,-0.21909465110494758
 5047,531,Champagne Petit Lebrun &amp; Fils Blanc de Blancs Grand Cru,13.0,22.5,-0.3593293288355157
 4054,19816,Clos du Mont-Olivet Châteauneuf-du-Pape Cuvée du Papet 2018,10.0,71.6,1.4061893061826631
 5894,16539,Thevenet Quintaine Viré-Clessé Emilian Gillet 2017,5.0,15.4,-0.614628357524499
@@ -352,48 +352,48 @@ product_id,sku,post_title,total_sales,price,z_score
 4759,16229,Domaine Saint-Nicolas Fiefs Vendéens Rouge Reflets 2018,0.0,16.9,-0.560691943012742
 4615,16186,Alphonse Mellot Sancerre Blanc La Moussière 2018,7.0,24.0,-0.3053929143237587
 4178,16160,Domaine de l'Hortus Pic Saint-Loup La Bergerie Rosé 2019,17.0,11.5,-0.754863035255067
-5485,16131,Decelle-Villa Savigny-Lès-Beaune Blanc 2018,3.0,33.4,0.032608616616585
-4166,16124,Ollieux Romanis Corbières Boutenac Atal Sia 2017,6.0,20.5,-0.431244548184525
-4045,16041,Pierre Gaillard Côte Rôtie 2018,14.0,42.6,0.3634186256220281
+5485,16131,Decelle-Villa Savigny-Lès-Beaune Blanc 2018,3.0,33.4,0.032608616616585095
+4166,16124,Ollieux Romanis Corbières Boutenac Atal Sia 2017,6.0,20.5,-0.43124454818452507
+4045,16041,Pierre Gaillard Côte Rôtie 2018,14.0,42.6,0.36341862562202815
 5696,15797,Planeta Sicilia Etna Bianco 2018,0.0,17.5,-0.5391173772080391
 6631,15795,Weingut Besson-Strasser Zürich Pinot Noir Albi 2016,0.0,47.2,0.5288236301247496
-6626,15790,Weingut Besson-Strasser Zürich Räuschling 2018,0.0,33.2,0.0254170946816843
+6626,15790,Weingut Besson-Strasser Zürich Räuschling 2018,0.0,33.2,0.025417094681684314
 5959,15766,Domaine Labranche Laffont Madiran Vieilles Vignes 2015,0.0,15.4,-0.614628357524499
-6592,15764,Domaine de la Monardière Vacqueyras Blanc Galéjade 2018,0.0,24.4,-0.2910098704539569
+6592,15764,Domaine de la Monardière Vacqueyras Blanc Galéjade 2018,0.0,24.4,-0.29100987045395693
 6299,15710,Lucien Boillot Gevrey Chambertin 1er Cru Les Cherbaudes 2017,0.0,78.0,1.6363180080994932
 6572,15704,Decelle-Villa Saint-Aubin 1er Cru Sous Roche Dumay 2015,0.0,44.0,0.4137592791663346
 4280,15690,Château de Cazeneuve Languedoc Blanc 2016,0.0,18.9,-0.4887767236637326
 4604,15660,Catherine et Claude Maréchal Pommard La Chanière 2016,1.0,49.0,0.593547327538858
-4602,15659,Catherine et Claude Maréchal Chorey-Lès-Beaune 2017,7.0,31.5,-0.0357108417649737
-4717,15658,Domaine Schoenheitz Pinot Noir Herrenreben 2017,6.0,23.4,-0.3269674801284615
+4602,15659,Catherine et Claude Maréchal Chorey-Lès-Beaune 2017,7.0,31.5,-0.03571084176497372
+4717,15658,Domaine Schoenheitz Pinot Noir Herrenreben 2017,6.0,23.4,-0.32696748012846155
 4204,15414,Mas Laval IGP Pays d'Hérault Les Pampres Rouges 2017,3.0,11.3,-0.762054557189968
 4205,15413,Mas Laval Terrasses du Larzac La Grande Cuvée 2016,12.0,23.0,-0.3413505239982634
 5068,15345,Albert Mann Pinot Noir Grand P 2017,0.0,59.9,0.9854852729909588
 4789,15316,Maurice Schoech Pinot Noir 2018,2.0,11.1,-0.7692460791248689
 5816,15237,Maison Trimbach Riesling 2017,0.0,16.9,-0.560691943012742
-4603,15147,Catherine et Claude Maréchal Ladoix Rouge Les Chaillots 2017,1.0,31.5,-0.0357108417649737
+4603,15147,Catherine et Claude Maréchal Ladoix Rouge Les Chaillots 2017,1.0,31.5,-0.03571084176497372
 4275,14864,I Fabbri Chianti Classico Lamole 2017,12.0,14.9,-0.6326071623617513
 5545,14827,Marc Colin Et Fils Chassagne-Montrachet Blanc Les Caillerets 1er Cru 2016,7.0,65.9,1.201230931037987
-4107,14800,Emile Boeckel Pinot Noir Terres Rouges 2016,0.0,35.0,0.0901407920957926
+4107,14800,Emile Boeckel Pinot Noir Terres Rouges 2016,0.0,35.0,0.09014079209579261
 5743,14323,Domaine Clerget Vosne-Romanée Les Violettes 2015,0.0,57.0,0.8812082049348953
 6103,14100,Stéphane Tissot Arbois Trousseau Amphore 2017,0.0,40.7,0.2950991672404693
-5551,13957,Thierry Germain Saumur-Champigny Franc De Pied 2017,0.0,36.3,0.1368856846726485
-4359,13853,Champagne Larmandier-Bernier Grand Cru Les Chemins d'Avize 2011,1.0,85.6,1.9095958416257288
-5761,13849,Huiles d'Olive Extra Vierge Planeta 3x 10cl,0.0,19.5,-0.4672021578590297
+5551,13957,Thierry Germain Saumur-Champigny Franc De Pied 2017,0.0,36.3,0.13688568467264858
+4359,13853,Champagne Larmandier-Bernier Grand Cru Les Chemins d'Avize 2011,1.0,85.6,1.9095958416257286
+5761,13849,Huiles d'Olive Extra Vierge Planeta 3x 10cl,0.0,19.5,-0.46720215785902974
 4393,13765,Wemyss Malts Blended Malt Scotch Whisky Vanilla Burst,0.0,57.0,0.8812082049348953
-4653,13515,Thierry Germain Saumur-Champigny Franc De Pied 2016,0.0,36.2,0.1332899237051983
+4653,13515,Thierry Germain Saumur-Champigny Franc De Pied 2016,0.0,36.2,0.13328992370519832
 4399,12640,Wemyss Malts Blended Malt Scotch Whisky Spice King Batch Strength,1.0,59.0,0.9531234242839046
-5899,12339,Stéphane Tissot Arbois Blanc Les Bruyères 2015,4.0,28.1,-0.1579667146582895
+5899,12339,Stéphane Tissot Arbois Blanc Les Bruyères 2015,4.0,28.1,-0.15796671465828954
 5756,7033,Huile d'Olive Extra Vierge Planeta Selezione Chef 3L,4.0,42.2,0.3490355817522263
 4628,802,Marcel Windholtz Eau de Vie de Marc de Muscat,0.0,39.6,0.2555457965985141
 6278,16273,Borie de Maurel Minervois Rouge Esprit d'Automne 2019,5.0,9.0,-0.8447570594413287
 4930,16155,Domaine La Croix Belle Côtes de Thongue Blanc N°7 2018,5.0,17.5,-0.5391173772080391
 4601,16151,Catherine et Claude Maréchal Bourgogne Aligoté 2018,4.0,16.1,-0.5894580307523456
 4899,16062,Domaine Brintet Mercurey Blanc Vieilles Vignes 2018,9.0,21.2,-0.4060742214123718
-4049,16043,Pierre Gaillard Saint-Joseph Rouge 2018,1.0,19.3,-0.4743936797939306
+4049,16043,Pierre Gaillard Saint-Joseph Rouge 2018,1.0,19.3,-0.47439367979393066
 4890,16038,Saumaize-Michelin Saint-Véran 2018,6.0,17.0,-0.5570961820452914
-4052,16030,Clos du Mont-Olivet Châteauneuf-du-Pape Blanc 2019,6.0,33.7,0.0433958995189366
-4084,16014,"Rimauresq Côtes de Provence Rouge Cru Classé ""R"" 2017",0.0,23.2,-0.3341590020633624
+4052,16030,Clos du Mont-Olivet Châteauneuf-du-Pape Blanc 2019,6.0,33.7,0.043395899518936645
+4084,16014,"Rimauresq Côtes de Provence Rouge Cru Classé ""R"" 2017",0.0,23.2,-0.33415900206336246
 5619,15922,"Albert Boxler Riesling Grand Cru Sommerberg ""E"" 2018",0.0,71.3,1.395402023280312
 5523,15862,Domaine Chambeyron Côte Rôtie Lancement 2017,1.0,60.4,1.0034640778282111
 6926,15845,Château Jean Faure Saint-Emilion Grand Cru 2016,1.0,49.9,0.6259091762459121
@@ -403,37 +403,37 @@ product_id,sku,post_title,total_sales,price,z_score
 6568,15707,Decelle-Villa Chambolle-Musigny 2017,0.0,72.0,1.4205723500524654
 4262,15663,Chermette Domaine du Vissoux Brouilly Pierreux 2018,3.0,15.8,-0.600245313654697
 4261,15662,Chermette Domaine du Vissoux Beaujolais Griottes 2018,1.0,9.9,-0.8123952107342746
-4202,15655,Mas de Daumas Gassac IGP Saint-Guilhem-le-Désert Blanc 2019,0.0,38.0,0.1980136211193066
+4202,15655,Mas de Daumas Gassac IGP Saint-Guilhem-le-Désert Blanc 2019,0.0,38.0,0.19801362111930662
 5738,15566,Triennes IGP Méditerranée Rouge Saint Auguste 2016,11.0,14.6,-0.6433944452641025
 4918,15533,Alain Graillot Crozes-Hermitage Rouge La Guiraude 2016,24.0,37.2,0.169247533379703
-4067,15490,Gilles Robin Crozes-Hermitage Rouge Albéric 2017,19.0,22.0,-0.377308133672768
-4215,15480,Marc Colin Et Fils Saint-Aubin Blanc Luce 2017,0.0,26.5,-0.215498890137497
+4067,15490,Gilles Robin Crozes-Hermitage Rouge Albéric 2017,19.0,22.0,-0.37730813367276805
+4215,15480,Marc Colin Et Fils Saint-Aubin Blanc Luce 2017,0.0,26.5,-0.21549889013749707
 4707,15466,Albert Mann Pinot Gris Cuvée Albert 2017,13.0,22.8,-0.3485420459331643
-4240,15436,Domaine Augustin Collioure Rouge Adéodat 2017,0.0,28.0,-0.16156247562574
-5826,15325,Agnès Levet Côte Rôtie Améthyste 2017,4.0,41.2,0.3130779720777216
+4240,15436,Domaine Augustin Collioure Rouge Adéodat 2017,0.0,28.0,-0.16156247562574005
+5826,15325,Agnès Levet Côte Rôtie Améthyste 2017,4.0,41.2,0.31307797207772164
 4749,15315,Domaine de Montgilet Anjou Blanc 2016,0.0,11.9,-0.7404799913852652
 4242,15310,Parcé Frères Côtes du Roussillon Villages Zoé Rouge 2018,14.0,8.6,-0.8591401033111306
-6109,15201,Gilles Robin Saint-Joseph Rouge André Péalat 2010,1.0,39.2,0.2411627527287123
+6109,15201,Gilles Robin Saint-Joseph Rouge André Péalat 2010,1.0,39.2,0.24116275272871232
 4248,15033,Domaine Saint-Denis Mâcon Chardonnay 2017,12.0,14.8,-0.6362029233292016
 4156,14941,Elian Daros Côtes du Marmandais Coucou Blanc 2016,6.0,20.35,-0.4366381896357007
 4101,14905,Emile Boeckel Pinot Gris Grand Cru Zotzenberg 2016,0.0,15.8,-0.600245313654697
-5613,14855,Albert Boxler Chasselas 2016,6.0,19.2,-0.4779894407613811
+5613,14855,Albert Boxler Chasselas 2016,6.0,19.2,-0.47798944076138117
 5443,14809,La Rectorie Banyuls Léon Parcé 2016,5.0,23.6,-0.3197759581935605
 5488,14712,Decelle-Villa Beaune Rouge 2015,0.0,43.5,0.3957804743290823
-6204,14604,Domaine Giudicelli Muscat du Cap Corse 2016,7.0,31.0,-0.053689646602226
+6204,14604,Domaine Giudicelli Muscat du Cap Corse 2016,7.0,31.0,-0.053689646602226054
 4797,14506,Domaine Peyre Rose Clos des Cistes 2008,0.0,78.0,1.6363180080994932
 4616,14371,Alphonse Mellot Sancerre Rouge La Demoiselle 2015,0.0,57.0,0.8812082049348953
 6106,14106,Stéphane Tissot Château-Chalon 2011,0.0,74.8,1.5212536571410782
 5548,13965,Thierry Germain Saumur-Champigny Outre Terre 2017,0.0,48.8,0.586355805603957
 5707,13557,Domaine des Terres d'Ocre Saint-Pourçain Rouge Instant T 2015,10.0,10.8,-0.7800333620272203
-4654,13514,Thierry Germain Saumur-Champigny La Marginale 2016,0.0,33.4,0.032608616616585
+4654,13514,Thierry Germain Saumur-Champigny La Marginale 2016,0.0,33.4,0.032608616616585095
 4164,13453,Parés Baltà Penedès Mas Petit 2015,20.0,7.6,-0.8950977129856352
-4072,12045,Château de Vaudieu Châteauneuf-du-Pape Blanc 2015,1.0,32.0,-0.0177320369277213
-4069,11862,Gilles Robin Hermitage Rouge 2012,0.0,60.0,0.9890810339584092
+4072,12045,Château de Vaudieu Châteauneuf-du-Pape Blanc 2015,1.0,32.0,-0.01773203692772139
+4069,11862,Gilles Robin Hermitage Rouge 2012,0.0,60.0,0.9890810339584093
 4657,11847,Thierry Germain Saumur-Champigny Outre Terre 2014,0.0,43.0,0.37780166949183
 4970,11225,Champagne Larmandier-Bernier Terre de Vertus Premier Cru 2011,0.0,49.5,0.6115261323761103
 4709,10775,Albert Mann Pinot Gris Vendanges Tardives Altenbourg 2011,0.0,44.0,0.4137592791663346
-4617,10459,Alphonse Mellot Sancerre Rouge Génération XIX 2011,0.0,67.5,1.2587631065171945
+4617,10459,Alphonse Mellot Sancerre Rouge Génération XIX 2011,0.0,67.5,1.2587631065171943
 4149,7086,Champagne Mailly Grand Cru Intemporelle Rosé 2009,0.0,69.0,1.3126995210289514
 4730,5646,Domaine Muré Crémant d'Alsace Cuvée Prestige,0.0,14.3,-0.6541817281664539
 4633,804,Marcel Windholtz Eau de Vie de Mirabelle d'Alsace Réserve Particulière,3.0,52.4,0.7158032004321738
@@ -446,49 +446,49 @@ product_id,sku,post_title,total_sales,price,z_score
 4937,16283,Domaine Rouge Garance Côtes du Rhône Feuille de Garance 2019,4.0,9.9,-0.8123952107342746
 4059,16275,Mourgues du Grès Costières de Nîmes Galets Rosés 2019,7.0,8.7,-0.8555443423436802
 4188,16265,Château de La Liquière Languedoc Blanc Les Amandiers 2019,8.0,9.5,-0.8267782546040764
-4283,16154,Château de Cazeneuve Pic Saint-Loup Le Roc Des Mates 2017,4.0,27.0,-0.1975200853002447
+4283,16154,Château de Cazeneuve Pic Saint-Loup Le Roc Des Mates 2017,4.0,27.0,-0.19752008530024473
 5753,16147,Château de la Selve Vin de France Petite Selve 2019,4.0,10.1,-0.8052036887993735
 6751,16144,Château Simone Palette Blanc 2017,0.0,46.5,0.5036533033525963
-4725,16010,François Baur Riesling Grand Cru Brand Clos De La Treille 2017,0.0,23.4,-0.3269674801284615
+4725,16010,François Baur Riesling Grand Cru Brand Clos De La Treille 2017,0.0,23.4,-0.32696748012846155
 5618,15921,"Albert Boxler Riesling Grand Cru Sommerberg ""D"" 2018",0.0,71.3,1.395402023280312
 5960,15892,Domaine Labranche Laffont Pacherenc du Vic-Bilh Sec 2017,0.0,12.7,-0.7117139036456614
 5000,15868,David Duband Côtes de Nuits Villages 2017,6.0,27.3,-0.1867328023978933
 4170,15786,Ollieux Romanis Corbières Classique 2018,4.0,9.0,-0.8447570594413287
 4180,15783,Domaine de l'Hortus Val de Montferrand La Grande Cuvée Blanc 2018,0.0,24.0,-0.3053929143237587
 4793,15730,Maurice Schoech Pinot Gris Grand Cru Schlossberg 2017,0.0,18.7,-0.4959682455986335
-5950,15432,Domaine de Vaccelli AOP Ajaccio Rouge Granit 2016,5.0,46.0,0.4856744985153439
+5950,15432,Domaine de Vaccelli AOP Ajaccio Rouge Granit 2016,5.0,46.0,0.48567449851534394
 4664,15402,La Cotelleraie Saint-Nicolas-de-Bourgueil Le Vau Jaumier 2016,0.0,16.4,-0.5786707478499943
 4224,15306,Pierre Martin Sancerre Chavignol Rouge 2017,2.0,17.2,-0.5499046601103905
-4040,15303,Pierre Jean Villa Saint-Joseph Saut De l'Ange 2018,0.0,34.3,0.0649704653236392
-4678,15281,Domaine Rotier Gaillac Rouge L'Ame 2016,0.0,29.8,-0.0968387782116316
+4040,15303,Pierre Jean Villa Saint-Joseph Saut De l'Ange 2018,0.0,34.3,0.06497046532363925
+4678,15281,Domaine Rotier Gaillac Rouge L'Ame 2016,0.0,29.8,-0.09683877821163163
 5396,14626,Chili De Martino Gallardia Cinsault 2017,0.0,17.1,-0.5535004210778409
-4618,14372,Alphonse Mellot Sancerre Rouge La Moussière 2014,0.0,30.6,-0.0680726904720278
+4618,14372,Alphonse Mellot Sancerre Rouge La Moussière 2014,0.0,30.6,-0.06807269047202787
 4978,13313,Château Dutruch Grand Poujeaux Moulis 2016,0.0,18.5,-0.5031597675335344
 5968,13215,Zind-Humbrecht Pinot Gris Clos Windsbuhl 2013,0.0,71.5,1.402593545215213
 4356,12585,Champagne Egly-Ouriet Premier Cru Les Vignes de Vrigny,12.0,51.6,0.6870371126925702
-5630,12365,Parés Baltà Penedès Electio 2013,1.0,28.0,-0.16156247562574
+5630,12365,Parés Baltà Penedès Electio 2013,1.0,28.0,-0.16156247562574005
 4651,11849,Thierry Germain Saumur Blanc Terres 2014,0.0,49.0,0.593547327538858
-4932,9937,Marcel Richaud Cairanne Rouge Les Estrambords 2011,4.0,25.7,-0.2442649778771008
+4932,9937,Marcel Richaud Cairanne Rouge Les Estrambords 2011,4.0,25.7,-0.24426497787710083
 4626,807,Marcel Windholtz Eau de Vie de Prunelle Sauvage,0.0,52.9,0.7337820052694262
-6279,16247,Borie de Maurel Minervois Rouge Maxime 2003,0.0,45.9,0.4820787375478934
+6279,16247,Borie de Maurel Minervois Rouge Maxime 2003,0.0,45.9,0.48207873754789343
 5566,16192,Le Pas de l'Escalette Terrasses du Larzac Le Grand Pas 2018,0.0,27.5,-0.1795412804629924
 6042,16159,Domaine La Croix Belle Côtes de Thongue Rosé Les Grillons 2019,18.0,8.5,-0.8627358642785811
-4662,16081,Pierre Martin Sancerre Les Monts Damnés 2018,0.0,20.8,-0.4204572652821736
+4662,16081,Pierre Martin Sancerre Les Monts Damnés 2018,0.0,20.8,-0.42045726528217364
 4974,16004,Château du Couvent Pomerol 2017,5.0,23.0,-0.3413505239982634
 4306,15949,Domaine de l'Idylle Roussette de Savoie Anne de Chypre 2018,1.0,10.7,-0.7836291229946708
-4723,15879,François Baur Pinot Noir Sang Du Dragon 2017,3.0,29.0,-0.1256048659512353
+4723,15879,François Baur Pinot Noir Sang Du Dragon 2017,3.0,29.0,-0.12560486595123538
 5004,15871,David Duband Vosne Romanée 2017,2.0,59.4,0.9675064681537064
-5520,15863,Domaine Chambeyron Côte Rôtie La Chavarine 2017,2.0,38.6,0.2195881869240094
+5520,15863,Domaine Chambeyron Côte Rôtie La Chavarine 2017,2.0,38.6,0.21958818692400947
 5522,15861,Domaine Chambeyron Côte Rôtie L'Angéline 2017,1.0,48.4,0.5719727617341551
 4621,15849,Bernard Baudry Chinon Rouge Les Grézeaux 2017,9.0,16.5,-0.5750749868825438
 4244,15770,La Préceptorie Côtes du Roussillon Coume Marie 2018,5.0,13.5,-0.6829478159060577
 4102,15767,Emile Boeckel Sylvaner Grand Cru Zotzenberg 2017,1.0,16.3,-0.5822665088174447
 4220,15758,Xavier Frissant Touraine Amboise Chenin Les Pierres 2018,12.0,11.6,-0.7512672742876165
-5564,15748,Tempier Bandol Rouge 2017,3.0,30.8,-0.0608811685371269
+5564,15748,Tempier Bandol Rouge 2017,3.0,30.8,-0.06088116853712696
 4753,15429,Domaine de Montgilet Coteaux de l'Aubance 2017,7.0,12.0,-0.7368842304178147
 5802,15399,Château Peymartin Saint-Julien 2014,0.0,23.8,-0.3125844362586596
-3847,15298,Pierre Jean Villa Saint-Joseph Préface 2018,6.0,24.2,-0.2982013923888578
-4288,15292,Domaine Hauvette IGP Alpilles Jaspe 2017,1.0,26.7,-0.2083073682025961
+3847,15298,Pierre Jean Villa Saint-Joseph Préface 2018,6.0,24.2,-0.29820139238885784
+4288,15292,Domaine Hauvette IGP Alpilles Jaspe 2017,1.0,26.7,-0.20830736820259615
 4676,15280,Domaine Rotier Gaillac Blanc Doux Les Gravels 2016,0.0,12.9,-0.7045223817107605
 6226,15161,Le Pas de l'Escalette Terrasses du Larzac Le Pas de D. 2017,0.0,20.4,-0.4348403091519756
 4609,15145,François Bergeret Hautes Côtes de Beaune Rouge 2017,0.0,11.8,-0.7440757523527156
@@ -501,77 +501,77 @@ product_id,sku,post_title,total_sales,price,z_score
 5525,14819,Domaine Chambeyron Vin de Pays des Collines Rhodaniennes Viognier 2016,0.0,12.0,-0.7368842304178147
 4157,14751,Planeta Sicilia Alastro 2017,0.0,12.0,-0.7368842304178147
 4668,14657,Xavier Frissant Touraine Amboise L'Orée des Frênes 2015,3.0,12.3,-0.7260969475154633
-5799,14461,Château Carbonnieux Graves Blanc 2017,0.0,40.2,0.2771203624032169
+5799,14461,Château Carbonnieux Graves Blanc 2017,0.0,40.2,0.27712036240321697
 5777,14338,Maurel Pays d'Oc Cabernet-Sauvignon 2017,0.0,5.7,-0.9634171713671942
 4776,14302,Château de La Liquière Pays d'Hérault Blanc A Mi Chemin 2017,7.0,6.8,-0.923863800725239
 6107,14101,Stéphane Tissot Arbois Vin Jaune En Spois 2011,0.0,62.4,1.0753792971772205
-5902,14095,Stéphane Tissot Arbois Pinot Noir Sous La Tour 2016,0.0,35.1,0.0937365530632431
+5902,14095,Stéphane Tissot Arbois Pinot Noir Sous La Tour 2016,0.0,35.1,0.09373655306324313
 4597,14000,Marc Colin Et Fils Chassagne-Montrachet Blanc Les Vide-Bourses 1er Cru 2016,2.0,61.6,1.0466132094376168
 5964,13662,Domaine de l'Ancienne Cure Pécharmant L'Abbaye 2015,3.0,16.3,-0.5822665088174447
 4690,13659,Domaine Plageoles Vin de France Contre-Pied 2016,0.0,12.8,-0.7081181426782109
 4750,13627,Domaine de Montgilet Anjou Rouge Les Yvonnais 2015,2.0,16.4,-0.5786707478499943
-4137,13209,Zind-Humbrecht Muscat Grand Cru Goldert 2015,0.0,29.8,-0.0968387782116316
+4137,13209,Zind-Humbrecht Muscat Grand Cru Goldert 2015,0.0,29.8,-0.09683877821163163
 4081,13117,Le Vieux Donjon Châteauneuf-du-Pape 2016,4.0,39.0,0.2339712307938113
-5393,12494,Australie Harkham Wines Old Vines 2011,0.0,35.3,0.1009280749981439
+5393,12494,Australie Harkham Wines Old Vines 2011,0.0,35.3,0.10092807499814391
 5398,12315,Chili Montsecano (Ostertag) Pinot Noir 2013,1.0,39.0,0.2339712307938113
 6738,8193,Emile Boeckel Crémant Chardonnay Extra Brut 2016,3.0,15.4,-0.614628357524499
 4635,798,Marcel Windholtz Eau de Vie de Kirsch d'Alsace Réserve Particulière,0.0,62.4,1.0753792971772205
 4964,16515,Château Turcaud Bordeaux Rouge Cuvée Majeure 2018,6.0,12.1,-0.7332884694503642
-4250,16317,Domaine Saint-Denis Bourgogne Rouge Clos de la Coque 2018,30.0,19.5,-0.4672021578590297
+4250,16317,Domaine Saint-Denis Bourgogne Rouge Clos de la Coque 2018,30.0,19.5,-0.46720215785902974
 4285,16153,Château de Cazeneuve Pic Saint-Loup Le Sang Du Calvaire 2017,8.0,41.0,0.3058864501428206
 6663,16152,Catherine et Claude Maréchal Pommard La Chanière 2017,0.0,50.4,0.6438879810831645
 5504,16146,Château de la Selve Coteaux de l'Ardèche Blanc Saint-Régis Blanc 2019,3.0,13.8,-0.6721605330037063
 5486,16130,Decelle-Villa Meursault 2018,9.0,49.5,0.6115261323761103
-6207,16077,Domaine Giudicelli Patrimonio Rouge 2016,37.0,25.2,-0.2622437827143531
+6207,16077,Domaine Giudicelli Patrimonio Rouge 2016,37.0,25.2,-0.26224378271435317
 5382,16011,Nouvelle-Zélande Marlborough Momo Pinot Noir 2016,0.0,22.8,-0.3485420459331643
 4307,15946,Domaine de l'Idylle Savoie Mondeuse Le Tithonien 2018,0.0,10.9,-0.7764376010597699
 5956,15895,Clos du Prieur Terrasses du Larzac 2018,0.0,17.2,-0.5499046601103905
-4893,15808,Jacqueson Rully Rouge 1er Cru Les Cloux 2018,3.0,27.9,-0.1651582365931905
+4893,15808,Jacqueson Rully Rouge 1er Cru Les Cloux 2018,3.0,27.9,-0.16515823659319057
 4183,15746,Borie La Vitarèle Saint-Chinian Les Crès 2016,0.0,21.4,-0.3988826994774709
 6884,15735,Domino Romano Ribera del Duero RDR 2015,0.0,46.5,0.5036533033525963
-4914,15613,Antoine-Marie Arena Patrimonio Hauts de Carco 2018,2.0,25.9,-0.2370734559421999
+4914,15613,Antoine-Marie Arena Patrimonio Hauts de Carco 2018,2.0,25.9,-0.23707345594219992
 5394,15462,Chili Valdivieso Merlot 2017,0.0,10.7,-0.7836291229946708
 4785,15448,Maurice Schoech Pinot Auxerrois Vieilles Vignes 2018,1.0,10.1,-0.8052036887993735
 4706,15349,Albert Mann Muscat 2018,32.0,16.8,-0.5642877039801923
-4138,15341,Zind-Humbrecht Zind 2017,6.0,25.7,-0.2442649778771008
-3849,15296,Pierre Jean Villa Saint-Joseph Rouge Tildé 2017,0.0,34.3,0.0649704653236392
+4138,15341,Zind-Humbrecht Zind 2017,6.0,25.7,-0.24426497787710083
+3849,15296,Pierre Jean Villa Saint-Joseph Rouge Tildé 2017,0.0,34.3,0.06497046532363925
 4677,15282,Domaine Rotier Gaillac Rouge Les Gravels 2016,1.0,9.5,-0.8267782546040764
-5773,15264,Decelle-Villa Auxey-Duresses Blanc 2017,3.0,32.8,0.0110340508118822
-5769,15254,Camille Giroud Marsannay Rouge Les Longeroies 2016,0.0,33.6,0.0398001385514861
+5773,15264,Decelle-Villa Auxey-Duresses Blanc 2017,3.0,32.8,0.011034050811882244
+5769,15254,Camille Giroud Marsannay Rouge Les Longeroies 2016,0.0,33.6,0.03980013855148613
 5818,15241,Maison Trimbach Riesling Grand Cru Schlossberg 2015,0.0,63.5,1.1149326678191755
 4607,15146,François Bergeret Hautes Côtes de Beaune Vieilles Vignes Rondo 2017,0.0,13.4,-0.6865435768735082
-4612,15038,Gilbert Picq Chablis Vieilles Vignes 2017,10.0,20.6,-0.4276487872170745
+4612,15038,Gilbert Picq Chablis Vieilles Vignes 2017,10.0,20.6,-0.42764878721707456
 5715,14982,François Baur Gewurztraminer Herrenweg de Turckheim 2016,0.0,13.7,-0.6757562939711568
 4901,14802,Domaine Des Croix Beaune 1er Cru Les Cent Vignes 2017,0.0,41.0,0.3058864501428206
-4258,14485,Domaine Huet Vouvray Le Mont Sec 2017,5.0,32.1,-0.0141362759602708
+4258,14485,Domaine Huet Vouvray Le Mont Sec 2017,5.0,32.1,-0.01413627596027087
 4162,14474,Domino Romano Ribera Del Duero Camino Romano 2016,1.0,14.3,-0.6541817281664539
 4171,14332,Le Hameau Des Ollieux Monsieur Pinot 2017,1.0,7.8,-0.8879061910507343
 5803,13572,Château Tour Haut-Caussan Médoc 2015,3.0,17.1,-0.5535004210778409
 5628,12366,Parés Baltà Penedès Hisenda Miret 2013,0.0,25.0,-0.2694353046492541
 5027,11997,Champagne Agrapart &amp; Fils Terroirs Brut Blanc de Blancs Grand Cru,0.0,62.1,1.064592014274869
-5024,11996,Champagne Agrapart &amp; Fils Les 7 Crus Brut Blanc de Blancs,0.0,45.0,0.4497168888408392
+5024,11996,Champagne Agrapart &amp; Fils Les 7 Crus Brut Blanc de Blancs,0.0,45.0,0.44971688884083927
 4142,11641,Champagne Gosset Grand Millésime 2006,30.0,53.0,0.7373777662368767
 4396,9636,Wemyss Malts Blended Malt Scotch Whisky The Hive 12 ans,0.0,62.0,1.0609962533074186
 4729,38,Emile Boeckel Crémant Brut Blanc de Blancs,38.0,8.6,-0.8591401033111306
 4954,bon-cadeau-25-euros,Bon cadeau de 25€,10.0,25.0,-0.2694353046492541
-4298,16501,Domaine de La Tour Du Bon Bandol Rouge 2018,1.0,23.2,-0.3341590020633624
+4298,16501,Domaine de La Tour Du Bon Bandol Rouge 2018,1.0,23.2,-0.33415900206336246
 4085,16462,Rimauresq Côtes de Provence Rouge Cru Classé 2017,7.0,19.0,-0.4851809626962821
 4860,16292,Philippe Nusswitz Duché d'Uzès Orénia Rosé 2019,11.0,8.7,-0.8555443423436802
 4269,16244,Domaine Sérol Côte Roannaise Les Originelles 2019,0.0,10.2,-0.8016079278319231
 4186,16190,Le Pas de l'Escalette Terrasses du Larzac Les Clapas Rouge 2018,1.0,16.6,-0.5714792259150933
 4087,16180,Rimauresq Côtes de Provence Cru Classé Rosé 2019,18.0,14.4,-0.6505859671990036
 5487,16129,Decelle-Villa Nuits-Saint-Georges Rouge 2016,3.0,43.5,0.3957804743290823
-4287,16065,Domaine Hauvette Les Baux de Provence Cornaline 2014,1.0,38.6,0.2195881869240094
+4287,16065,Domaine Hauvette Les Baux de Provence Cornaline 2014,1.0,38.6,0.21958818692400947
 4786,15881,Maurice Schoech Gewurztraminer 2018,0.0,12.1,-0.7332884694503642
 4722,15880,François Baur Pinot Gris Herrenweg de Turckheim 2018,1.0,13.7,-0.6757562939711568
 5906,15857,Domaine de Montbourgeau L'Etoile En Banode 2016,0.0,19.8,-0.4564148749566783
 4099,15813,Paul Ginglinger Riesling Drei Exa 2018,0.0,12.8,-0.7081181426782109
-5890,15775,Saumaize-Michelin Saint-Véran Les Crèches 2018,0.0,19.3,-0.4743936797939306
+5890,15775,Saumaize-Michelin Saint-Véran Les Crèches 2018,0.0,19.3,-0.47439367979393066
 6584,15769,La Préceptorie Côtes du Roussillon Blanc Coume Marie 2018,0.0,13.5,-0.6829478159060577
 4213,15718,Lucien Boillot Volnay 1er Cru Les Angles 2017,0.0,58.8,0.9459319023490036
 4718,15670,Domaine Schoenheitz Pinot Noir Val Saint Grégoire 2017,0.0,18.2,-0.5139470504358858
 4264,15665,Chermette Domaine du Vissoux Moulin à Vent Les Trois Roches 2018,2.0,17.8,-0.5283300943056877
-6664,15661,Catherine et Claude Maréchal Savigny-Lès-Beaune Rouge 2017,0.0,35.6,0.1117153579004954
+6664,15661,Catherine et Claude Maréchal Savigny-Lès-Beaune Rouge 2017,0.0,35.6,0.11171535790049547
 4177,15583,Domaine de l'Hortus Val de Montferrand La Bergerie Blanc 2018,0.0,13.5,-0.6829478159060577
 4682,15575,Château Plaisance Fronton Rouge 2017,6.0,9.1,-0.8411612984738782
 6575,15479,Marc Colin Et Fils Saint-Aubin 1er Cru La Chatenière 2017,0.0,41.8,0.3346525378824243
@@ -580,18 +580,18 @@ product_id,sku,post_title,total_sales,price,z_score
 4130,15339,Zind-Humbrecht Pinot Gris Roche Calcaire 2017,0.0,23.0,-0.3413505239982634
 6038,15318,I Fabbri Chianti Classico Gran Selezione 2015,0.0,48.5,0.5755685227016056
 4227,15261,La Cotelleraie Saint-Nicolas-de-Bourgueil La Croisée 2018,6.0,12.6,-0.7153096646131119
-5772,15180,Camille Giroud Santenay Rouge 2016,1.0,29.7,-0.1004345391790821
+5772,15180,Camille Giroud Santenay Rouge 2016,1.0,29.7,-0.10043453917908216
 5742,15125,Domaine Clerget Chambolle-Musigny 2014,0.0,42.1,0.3454398207847758
 5694,14661,Philippe Nusswitz Duché d'Uzès Orénia Rouge Réserve 2016,5.0,12.7,-0.7117139036456614
 4994,14507,Domaine Peyre Rose Syrah Léone 2008,0.0,78.0,1.6363180080994932
-5547,13959,Thierry Germain Saumur-Champigny Terres Chaudes 2017,1.0,24.6,-0.2838183485190558
+5547,13959,Thierry Germain Saumur-Champigny Terres Chaudes 2017,1.0,24.6,-0.28381834851905585
 4358,13854,Champagne Larmandier-Bernier Grand Cru Vieilles Vignes du Levant 2008,0.0,77.0,1.6003603984249886
 5552,13520,Thierry Germain Saumur Blanc Clos Roman 2016,0.0,57.7,0.9063785317070486
 5795,13291,Château de Chantegrive Graves Blanc Caroline 2016,0.0,23.0,-0.3413505239982634
 4350,12588,Champagne Egly-Ouriet Grand Cru Extra Brut V.P.,0.0,79.5,1.6902544226112504
 4391,11467,Wemyss Malts Blended Malt Scotch Whisky Peat Chimney,0.0,49.5,0.6115261323761103
 5760,11258,Huile d'Olive Extra Vierge Planeta 50cl,2.0,13.1,-0.6973308597758595
-5574,8463,Domaine Huet Vouvray Le Mont Moelleux Première Trie 2008,0.0,59.6,0.9746979900886076
+5574,8463,Domaine Huet Vouvray Le Mont Moelleux Première Trie 2008,0.0,59.6,0.9746979900886075
 4625,812,Marcel Windholtz Eau de Vie de Sureau,0.0,52.4,0.7158032004321738
 4193,16529,Château de La Liquière Faugères Cistus Blanc 2019,8.0,13.5,-0.6829478159060577
 5930,16323,Borie La Vitarèle Languedoc Blanc Le Grand Mayol 2019,1.0,14.1,-0.6613732501013548
@@ -599,87 +599,87 @@ product_id,sku,post_title,total_sales,price,z_score
 4865,16274,Mourgues du Grès Costières de Nîmes Capitelles Rosé 2018,13.0,9.8,-0.815990971701725
 4173,16211,Maurel Pays d'Oc Chenin-Colombard 2019,13.0,5.7,-0.9634171713671942
 4190,16191,Le Pas de l'Escalette Coteaux du Languedoc Ze Rozé 2019,5.0,12.1,-0.7332884694503642
-6221,16096,Planeta Sicilia Eruzione 1614 2017,0.0,23.5,-0.323371719161011
-5697,16094,Planeta Sicilia Noto Santa Cecilia 2016,0.0,29.9,-0.0932430172441812
+6221,16096,Planeta Sicilia Eruzione 1614 2017,0.0,23.5,-0.32337171916101104
+5697,16094,Planeta Sicilia Noto Santa Cecilia 2016,0.0,29.9,-0.09324301724418124
 4862,16047,Philippe Nusswitz Duché d'Uzès Orénia Blanc 2018,12.0,9.9,-0.8123952107342746
 6072,16028,Clos du Mont-Olivet Côtes-du-Rhône Blanc 2019,9.0,13.6,-0.6793520549386072
-5608,15944,Domaine Weinbach Gewurztraminer Cuvée Théo 2018,2.0,30.5,-0.0716684514394783
+5608,15944,Domaine Weinbach Gewurztraminer Cuvée Théo 2018,2.0,30.5,-0.07166845143947839
 5519,15860,Domaine Chambeyron Côtes du Rhône 2017,22.0,12.9,-0.7045223817107605
 4646,15848,Bernard Baudry Chinon Rouge Le Clos Guillot 2017,1.0,21.5,-0.3952869385100204
 4167,15785,Ollieux Romanis Corbières Rouge Cuvée Prestige 2017,3.0,14.3,-0.6541817281664539
-4888,15776,Saumaize-Michelin Pouilly-Fuissé Les Ronchevats 2018,0.0,27.9,-0.1651582365931905
+4888,15776,Saumaize-Michelin Pouilly-Fuissé Les Ronchevats 2018,0.0,27.9,-0.16515823659319057
 6635,15763,Domaine de la Monardière Vacqueyras Vieilles Vignes 2016,1.0,22.4,-0.3629250898029662
 5375,15755,David-Beaupère Juliénas Les Trois Verres 2018,1.0,15.2,-0.6218198794593999
 5483,15753,David-Beaupère Juliénas La Bottière Vieilles Vignes 2018,0.0,17.9,-0.5247343333382373
-4792,15733,Maurice Schoech Riesling Grand Cru Kaefferkopf 2018,19.0,21.0,-0.4132657433472727
+4792,15733,Maurice Schoech Riesling Grand Cru Kaefferkopf 2018,19.0,21.0,-0.41326574334727273
 5063,15715,Lucien Boillot Pommard 1er Cru Les Croix Noires 2017,0.0,67.0,1.240784301679942
 5061,15711,Lucien Boillot Gevrey Chambertin Les Evocelles 2017,0.0,52.6,0.7229947223670748
 5706,15674,Domaine des Terres d'Ocre Saint-Pourçain Blanc Instant T 2018,0.0,10.3,-0.7980121668644726
-4201,15656,Mas de Daumas Gassac IGP Saint-Guilhem-le-Désert 2018,0.0,38.0,0.1980136211193066
+4201,15656,Mas de Daumas Gassac IGP Saint-Guilhem-le-Désert 2018,0.0,38.0,0.19801362111930662
 6618,15539,Clos du Mont-Olivet Vins de Pays du Gard Confluence 2017,0.0,13.5,-0.6829478159060577
-4600,15475,Marc Colin Et Fils Chassagne-Montrachet Rouge Vieilles Vignes 2017,0.0,26.5,-0.215498890137497
+4600,15475,Marc Colin Et Fils Chassagne-Montrachet Rouge Vieilles Vignes 2017,0.0,26.5,-0.21549889013749707
 4246,15428,Domaine Saint-Denis Mâcon Lugny 2017,7.0,15.3,-0.6182241184919494
 4714,15361,Domaine Schoenheitz Muscat 2017,3.0,13.3,-0.6901393378409586
 6622,15205,Thierry Germain Saumur-Champigny Les Mémoires 2018,0.0,42.2,0.3490355817522263
 4606,15149,Catherine et Claude Maréchal Volnay 2017,1.0,50.1,0.6331006981808132
 5722,15026,Domaine de l'Hortus Pays de l'Hérault Le Loup Dans La Bergerie 2018,19.0,7.1,-0.9130765178228876
-4041,14975,Pierre Gaillard Condrieu 2018,0.0,32.7,0.0074382898444319
+4041,14975,Pierre Gaillard Condrieu 2018,0.0,32.7,0.007438289844431981
 4277,14865,I Fabbri Chianti Classico Riserva 2015,3.0,24.8,-0.276626826584155
 4975,14756,Château Cordet Margaux 2013,4.0,23.7,-0.3161801972261101
 5384,14149,Liban Vallée de la Békaa Château Marsyas 2012,0.0,28.8,-0.1327963878861363
 4675,13762,Domaine Rotier Gaillac Blanc Sec Renaissance 2015,0.0,10.7,-0.7836291229946708
-4336,13599,Champagne Mailly Grand Cru Blanc de Pinot Noir,1.0,35.5,0.1081195969330449
+4336,13599,Champagne Mailly Grand Cru Blanc de Pinot Noir,1.0,35.5,0.10811959693304495
 4139,13217,Zind-Humbrecht Gewurztraminer Grand Cru Rangen De Thann Clos Saint-Urbain 2013,0.0,77.4,1.6147434422947906
 5969,13211,Zind-Humbrecht Riesling Clos Windsbuhl 2014,0.0,69.0,1.3126995210289514
 4272,13089,Domaine Sérol Côte Roannaise Rosé Cabochard 2016,1.0,9.2,-0.8375655375064278
 5907,12882,Domaine de Montbourgeau Vin de Paille 2013,0.0,17.7,-0.5319258552731382
-4228,12657,Domaine de Bellivière Jasnières Les Rosiers 2015,0.0,29.9,-0.0932430172441812
+4228,12657,Domaine de Bellivière Jasnières Les Rosiers 2015,0.0,29.9,-0.09324301724418124
 4656,10814,Thierry Germain Saumur-Champigny Outre Terre 2013,0.0,43.0,0.37780166949183
-5913,10014,Darnley's London Dry Gin Original,0.0,36.0,0.1260984017702972
+5913,10014,Darnley's London Dry Gin Original,0.0,36.0,0.12609840177029727
 4719,16527,Domaine Schoenheitz Pinot Noir Tradition 2019,15.0,12.5,-0.7189054255805624
-5962,16326,Camin Larredya Jurançon Moelleux Au Capcéu 2018,0.0,30.0,-0.0896472562767307
+5962,16326,Camin Larredya Jurançon Moelleux Au Capcéu 2018,0.0,30.0,-0.08964725627673072
 4063,16319,Mourgues du Grès Costières de Nîmes Terre de Feu 2017,3.0,14.5,-0.646990206231553
 5711,16121,Albert Mann Riesling Cuvée Albert 2017,5.0,25.0,-0.2694353046492541
 4711,16119,Albert Mann Riesling Grand Cru Schlossberg 2018,1.0,55.4,0.8236760294556877
 4778,16072,Clos du Mont-Olivet Lirac Rosé Farel 2019,0.0,13.9,-0.668564772036256
 4674,16056,Domaine Pellé Sancerre Blanc La Croix Au Garde 2018,7.0,19.0,-0.4851809626962821
-4963,15958,Château Turcaud Bordeaux Rouge 2016,2.0,7.0,-0.916672278790338
-4680,15934,Domaine de Joy Côtes de Gascogne Envie de Joy 2018,2.0,6.3,-0.9418426055624912
-4923,15928,Cave de Castelmaure Corbières Rouge Vigneron 2018,10.0,7.0,-0.916672278790338
+4963,15958,Château Turcaud Bordeaux Rouge 2016,2.0,7.0,-0.9166722787903381
+4680,15934,Domaine de Joy Côtes de Gascogne Envie de Joy 2018,2.0,6.3,-0.9418426055624913
+4923,15928,Cave de Castelmaure Corbières Rouge Vigneron 2018,10.0,7.0,-0.9166722787903381
 5006,15870,David Duband Nuits-Saint-Georges 2017,0.0,48.7,0.5827600446365067
 5003,15869,David Duband Morey-Saint-Denis 2017,0.0,48.7,0.5827600446365067
 4106,15787,Emile Boeckel Pinot Noir Barriques Oberpfoeller 2018,6.0,12.6,-0.7153096646131119
-4784,15734,Maurice Schoech Riesling Vendanges Tardives 2017,0.0,28.5,-0.1435836707884877
+4784,15734,Maurice Schoech Riesling Vendanges Tardives 2017,0.0,28.5,-0.14358367078848772
 4212,15717,Lucien Boillot Volnay 2017,2.0,39.8,0.2627373185334149
-6325,15678,Tempier Bandol Blanc 2018,0.0,27.9,-0.1651582365931905
+6325,15678,Tempier Bandol Blanc 2018,0.0,27.9,-0.16515823659319057
 4217,15672,Domaine de l'Ecu Muscadet Granite 2018,0.0,17.1,-0.5535004210778409
-6578,15647,Saumaize-Michelin Pouilly-Fuissé Ampélopsis 2016,7.0,40.0,0.2699288404683159
-4915,15615,Jean-Baptiste Arena Patrimonio Blanc Morta Maio,8.0,25.9,-0.2370734559421999
+6578,15647,Saumaize-Michelin Pouilly-Fuissé Ampélopsis 2016,7.0,40.0,0.26992884046831594
+4915,15615,Jean-Baptiste Arena Patrimonio Blanc Morta Maio,8.0,25.9,-0.23707345594219992
 4733,15576,Camin Larredya Jurançon Sec La Part Davant 2018,0.0,16.8,-0.5642877039801923
 5963,15574,Domaine de l'Ancienne Cure Bergerac Blanc Sec L'Abbaye 2016,0.0,13.5,-0.6829478159060577
-4919,15531,Alain Graillot Crozes-Hermitage Rouge 2017,6.0,24.4,-0.2910098704539569
-4920,15530,Alain Graillot Crozes-Hermitage Blanc 2018,10.0,24.4,-0.2910098704539569
+4919,15531,Alain Graillot Crozes-Hermitage Rouge 2017,6.0,24.4,-0.29100987045395693
+4920,15530,Alain Graillot Crozes-Hermitage Blanc 2018,10.0,24.4,-0.29100987045395693
 4194,15441,Château de La Liquière Faugères 2017,9.0,10.8,-0.7800333620272203
-4098,15378,Paul Ginglinger Pinot Noir Les Rocailles 2016,1.0,22.1,-0.3737123727053175
+4098,15378,Paul Ginglinger Pinot Noir Les Rocailles 2016,1.0,22.1,-0.37371237270531754
 5737,15369,Triennes IGP Méditerranée Rouge Les Auréliens 2016,9.0,11.0,-0.7728418400923194
-4980,15229,Château La Tour l'Aspic Pauillac 2014,0.0,26.5,-0.215498890137497
-4650,15206,Thierry Germain Saumur Blanc L'Insolite 2018,5.0,25.3,-0.2586480217469026
+4980,15229,Château La Tour l'Aspic Pauillac 2014,0.0,26.5,-0.21549889013749707
+4650,15206,Thierry Germain Saumur Blanc L'Insolite 2018,5.0,25.3,-0.25864802174690266
 5444,15155,La Préceptorie Maury Rouge Cuvée Aurélie 2017,1.0,15.5,-0.6110325965570484
-6049,14899,Christophe Pichon Saint-Joseph Blanc 2017,3.0,21.8,-0.3844996556076689
+6049,14899,Christophe Pichon Saint-Joseph Blanc 2017,3.0,21.8,-0.38449965560766897
 5016,14839,Château Tour Des Gendres Bergerac Blanc Cuvée Des Conti 2017,3.0,9.3,-0.8339697765389773
 6127,14573,Moulin de Gassac IGP Pays d'Hérault Rouge Mazet du Levant 2017,0.0,10.6,-0.7872248839621212
 6128,14569,Moulin de Gassac IGP Pays d'Hérault Blanc Faune 2017,3.0,10.6,-0.7872248839621212
-4739,14366,Jean-Paul Brun Beaujolais Le Ronsay 2016,0.0,7.4,-0.9022892349205364
+4739,14366,Jean-Paul Brun Beaujolais Le Ronsay 2016,0.0,7.4,-0.9022892349205363
 5506,14192,Château de la Selve Coteaux de l'Ardèche Rouge Serre de Berty 2014,0.0,18.2,-0.5139470504358858
 4658,13517,Thierry Germain Saumur-Champigny Outre Terre 2016,0.0,48.8,0.586355805603957
 4740,13412,Jean-Paul Brun Beaujolais L'Ancien 2016,0.0,9.7,-0.8195867326691755
 4274,12942,Domaine Sérol Vin Mousseux Rosé Turbullent Méthode Ancestrale,0.0,12.9,-0.7045223817107605
 5900,12869,Stéphane Tissot Arbois D.D. 2016,0.0,18.25,-0.5121491699521605
 4397,12639,Wemyss Malts Blended Malt Scotch Whisky The Hive Batch Strength,0.0,59.0,0.9531234242839046
-5703,11736,Domaine de l'Ecu Muscadet Taurus 2012,0.0,29.4,-0.1112218220814335
+5703,11736,Domaine de l'Ecu Muscadet Taurus 2012,0.0,29.4,-0.11122182208143358
 5967,11669,Zind-Humbrecht Gewurztraminer Clos Windsbuhl 2012,0.0,56.3,0.8560378781627419
 4395,11587,Wemyss Malts Blended Scotch Whisky Lord Elcho,0.0,27.5,-0.1795412804629924
 5801,11277,Château Monbrison Margaux Bouquet de Monbrison 2012,0.0,24.0,-0.3053929143237587
-4337,4679,Champagne Mailly Grand Cru Les Echansons 2007,0.0,83.0,1.8161060564720168
+4337,4679,Champagne Mailly Grand Cru Les Echansons 2007,0.0,83.0,1.8161060564720166
 4795,3568,Emile Boeckel Crémant Brut Rosé,10.0,12.0,-0.7368842304178147
-4146,1360,Champagne Mailly Grand Cru Brut Réserve,0.0,29.5,-0.107626061113983
+4146,1360,Champagne Mailly Grand Cru Brut Réserve,0.0,29.5,-0.10762606111398305
