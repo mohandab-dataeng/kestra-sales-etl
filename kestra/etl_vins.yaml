@@ -1,0 +1,118 @@
+id: etl_vins
+namespace: bottleneck
+
+pluginDefaults:
+  - type: io.kestra.plugin.scripts.python.Commands
+    values:
+      retry:
+        type: exponential
+        interval: PT2S
+        maxInterval: PT30S
+        maxAttempts: 5
+
+tasks:
+  - id: sql_nettoyage
+    # Tâche 1 : nettoyage + dédoublonnage ERP/web/liaison via DuckDB, avec tests intégrés (doublons, nulls, unicité PK)
+    type: io.kestra.plugin.scripts.python.Commands
+    namespaceFiles:
+      enabled: true
+    taskRunner:
+      type: io.kestra.plugin.scripts.runner.docker.Docker
+    containerImage: python:3.13-slim
+    dependencies:
+      - pandas
+      - duckdb
+      - openpyxl
+    commands:
+      - python scripts/sql_nettoyage.py
+    outputFiles:
+      - "erp_s1.csv"
+      - "web_s1.csv"
+      - "liaison_s1.csv"
+
+  - id: sql_jointure
+    # Tâche 2 : jointure des 3 tables nettoyées via liaison (INNER JOIN), avec test de cohérence volumétrique
+    type: io.kestra.plugin.scripts.python.Commands
+    namespaceFiles:
+      enabled: true
+    taskRunner:
+      type: io.kestra.plugin.scripts.runner.docker.Docker
+    containerImage: python:3.13-slim
+    dependencies:
+      - pandas
+      - duckdb
+    inputFiles:
+      erp_s1.csv: "{{ outputs.sql_nettoyage.outputFiles['erp_s1.csv'] }}"
+      web_s1.csv: "{{ outputs.sql_nettoyage.outputFiles['web_s1.csv'] }}"
+      liaison_s1.csv: "{{ outputs.sql_nettoyage.outputFiles['liaison_s1.csv'] }}"
+    commands:
+      - python scripts/sql_jointure.py
+    outputFiles:
+      - "fusion_s2.csv"
+
+  - id: sql_ca
+    # Tâche 3 : calcul des chiffres d'affaires par produit et total, avec test de cohérence CA
+    type: io.kestra.plugin.scripts.python.Commands
+    namespaceFiles:
+      enabled: true
+    taskRunner:
+      type: io.kestra.plugin.scripts.runner.docker.Docker
+    containerImage: python:3.13-slim
+    dependencies:
+      - pandas
+      - duckdb
+    inputFiles:
+      fusion_s2.csv: "{{ outputs.sql_jointure.outputFiles['fusion_s2.csv'] }}"
+    commands:
+      - python scripts/sql_ca.py
+    outputFiles:
+      - "ca_tot_s3.csv"
+      - "ca_pro_s3.csv"
+
+
+  - id: py_zscore
+    # Tâche 4 : calcul du z-score sur les prix, séparation vins premium/ordinaires, avec test de cohérence volumétrique
+    type: io.kestra.plugin.scripts.python.Commands
+    namespaceFiles:
+      enabled: true
+    taskRunner:
+      type: io.kestra.plugin.scripts.runner.docker.Docker
+    containerImage: python:3.13-slim
+    dependencies:
+      - pandas
+    inputFiles:
+      fusion_s2.csv: "{{ outputs.sql_jointure.outputFiles['fusion_s2.csv'] }}"
+    commands:
+      - python scripts/py_zscore.py
+    outputFiles:
+      - "vins_premiums.csv"
+      - "vins_ordinaires.csv"
+
+  - id: py_export
+    # Tâche 5 : Export du rapport CA et des extractions vins premium/ordinaires
+    type: io.kestra.plugin.scripts.python.Commands
+    namespaceFiles:
+      enabled: true
+    taskRunner:
+      type: io.kestra.plugin.scripts.runner.docker.Docker
+    containerImage: python:3.13-slim
+    dependencies:
+      - pandas
+      - openpyxl
+    inputFiles:
+      ca_pro_s3.csv: "{{ outputs.sql_ca.outputFiles['ca_pro_s3.csv'] }}"
+      ca_tot_s3.csv: "{{ outputs.sql_ca.outputFiles['ca_tot_s3.csv'] }}"
+      vins_premiums.csv: "{{ outputs.py_zscore.outputFiles['vins_premiums.csv'] }}"
+      vins_ordinaires.csv: "{{ outputs.py_zscore.outputFiles['vins_ordinaires.csv'] }}"
+    commands:
+      - python scripts/py_export.py
+    outputFiles:
+      - "vins_premiums.csv"
+      - "vins_ordinaires.csv"
+      - "rapport_bottleneck.xlsx"
+
+triggers:
+  - id: etl_vins_schedule
+    type: io.kestra.plugin.core.trigger.Schedule
+    cron: "00 09 15 * *"
+    timezone: "Europe/Paris"
